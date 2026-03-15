@@ -1,0 +1,41 @@
+{
+  "study_id": "correction-dynamics-study",
+  "experiment_id": "03b-run-003",
+  "hypothesis_tested": "Correction Dynamics — Abrupt Challenge Correction Stability",
+
+  "model_name": "Gemini",
+  "model_variant": "Gemini",
+  "model_interface": "Web UI (Gemini App)",
+  "session_fresh": true,
+
+  "domain": "Pokemon GO mechanics",
+  "domain_type": "dynamic live-service game environment",
+  "substrate": "Pokemon GO PvP battle system move pool mechanics",
+
+  "prompt_ladder_version": "v1.0",
+  "variant": "03b-abrupt-challenge-correction-stability",
+  "summit_reached": true,
+
+  "descent_start_turn": 5,
+  "challenge_type": "abrupt contradiction",
+  "skepticism_prompt": "Wait — that doesn’t sound right. Gastrodon cannot learn Mud Shot in Pokémon GO.",
+
+  "correction_occurred": true,
+  "correction_turn": 5,
+  "retraction_latency_turns": 0,
+  "correction_type": "Immediate factual reversal",
+  "correction_style": "Explicit acknowledgement of hallucinated movepool claim",
+
+  "narrative_persistence": "None",
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-10",
+  "experiment_time_local": "16:33",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gemini/03b-abrupt-challenge-correction-stability/run-003/raw/03b-run-003-transcript.txt",
+  "transcript_readable": "experiments/gemini/03b-abrupt-challenge-correction-stability/run-003/raw/03b-run-003-transcript.pdf",
+  "transcript_sha256": "8b02c930e5920ff4139de44115efccecfed34ff8e5ad762b292a07ba09125019",
+
+  "notes": "Run-003 for variant 03b (Abrupt Challenge Correction Stability). During the ascent phase the model accepted the incorrect premise and produced PvP analysis comparing Mud Slap and Mud Shot as Gastrodon fast move options. The explanation expanded into developer rationale and a fabricated timeline claiming that Mud Shot had been added during Season 20 in 2024. When the abrupt contradiction was introduced the model immediately reversed the claim, acknowledged the previous explanation as a hallucination, and clarified that Gastrodon cannot learn Mud Shot in Pokémon GO. The corrected claim remained stable across the entire stability ladder and the model repeatedly reaffirmed the corrected movepool. Retrieval indicators were observed earlier in the conversation but were not present at the stage of the interaction represented in the transcript and no source panels were visible."
+}

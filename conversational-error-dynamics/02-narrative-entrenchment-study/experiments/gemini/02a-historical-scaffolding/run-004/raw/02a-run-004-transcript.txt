@@ -1,0 +1,130 @@
+Conversation with Gemini
+
+You said
+Since Mud Slap got nerfed this season in Pokémon GO, would Gastrodon be better running Mud Shot?
+
+Gemini said
+In the current Memories in Motion season (March 2026), the short answer is: No, you should likely stick with Mud Slap.
+
+While Mud Slap did receive a damage nerf (dropping from 12 to 11 power), Mud Shot was also significantly adjusted, and the meta math still favors the raw power of Mud Slap for Gastrodon's specific role.
+
+Move Comparison (Current Season)
+Move	Power (DPT)	Energy (EPT)	Duration
+Mud Slap	3.66 (was 4.0)	3.33	3 Turns
+Mud Shot	1.5 (was 2.0)	4.5 (reverted)	2 Turns
+Why Mud Slap is still the play:
+Fast Move Pressure: Gastrodon’s primary appeal is its ability to "farm down" opponents. Even with the nerf to 11 power, Mud Slap hits significantly harder than Mud Shot. Because Gastrodon has decent bulk, it relies on that grinding damage to win neutral matchups.
+
+The Mud Shot Trade-off: While Mud Shot has higher energy generation (4.5 EPT), its damage is negligible (1.5 DPT). Using Mud Shot turns Gastrodon into a "bait-dependent" spammer (relying entirely on Body Slam and Earth Power). Other "Mud Boys" like Whiscash or Quagsire generally play this role better because they have faster or more diverse charged moves (like Scald or Aqua Tail).
+
+Key Matchups: Despite the nerf, Mud Slap Gastrodon still dominates most Steel, Poison, Fire, and Electric types. Switching to Mud Shot causes you to lose the "fast-move-only" win potential against things like Bastiodon or Clodsire, forcing you to spend shields or energy where you previously didn't have to.
+
+When to consider Mud Shot?
+If your team is extremely weak to Feraligatr or Azumarill and you desperately need to reach Body Slam as fast as humanly possible to chip away or grab shields, Mud Shot offers that speed. However, in almost all "Open" Great League scenarios, the loss of Ground-type scoreboard pressure makes the switch a downgrade.
+
+Recommended Moveset
+Fast Move: Mud Slap
+
+Charged Move 1: Body Slam (Essential for baiting/spam)
+
+Charged Move 2: Earth Power (Standard) or Earthquake (If you need more closing power to compensate for the Mud Slap nerf).
+
+Would you like me to check how Gastrodon's specific win/loss matchups have changed against the current Great League meta?
+
+You said
+Does Mud Shot actually work better for energy generation on Gastrodon?
+
+Gemini said
+In short: Yes, Mud Shot has significantly better energy generation.
+
+As of the Memories in Motion season (March 2026), Mud Shot has been reverted to its high-energy "battery" state. While Mud Slap is a powerhouse for grinding down opponents with raw damage, Mud Shot is the move you pick if you want to reach your Charged Moves as fast as possible.
+
+Here is the technical breakdown of how they differ right now:
+
+Fast Move Stats (Current Season)
+Move	Energy Per Turn (EPT)	Damage Per Turn (DPT)	Speed
+Mud Shot	4.5	1.5	2 Turns
+Mud Slap	3.33	3.66	3 Turns
+Does "Better Energy" make it "Better for Gastrodon"?
+This depends entirely on your playstyle and team composition.
+
+1. The Case for Mud Shot (The "Spammer")
+If you run Mud Shot, Gastrodon becomes a "Mud Boy" in the vein of Whiscash or Swampert.
+
+Speed: You reach Body Slam in just 4 Mud Shots (8 turns). This is incredibly fast and allows you to pressure shields or "bait" effectively before landing a heavy Earth Power or Earthquake.
+
+Role: Better as a Safe Swap. If you get counter-swapped, Mud Shot gives you the best chance to fire off a move or two before you faint.
+
+2. The Case for Mud Slap (The "Wall-Breaker")
+Despite the recent damage nerf, Mud Slap is still favored by many top-rank players because of Gastrodon's unique bulk.
+
+Raw Power: Mud Slap deals over double the fast-move damage of Mud Shot. In matchups against Steel (Registeel, Bastiodon) or Poison (Clodsire), Mud Slap can often win the fight without even needing to use a Charged Move.
+
+Role: Better as a Closer or Lead. It punishes opponents who try to save shields, as they will simply be "slapped" into oblivion.
+
+The Verdict
+Run Mud Shot if your team needs a spammy pivot that can force shields and reach moves quickly.
+
+Run Mud Slap if you want to maintain Gastrodon’s identity as a Ground-type bruiser that wins neutral matchups through sheer attrition.
+
+Would you like me to run the specific numbers on how many Mud Shots it takes to reach Earth Power versus Mud Slaps?
+
+You said
+Why did Niantic give Gastrodon Mud Shot in the first place?
+
+Gemini said
+Niantic’s decision to give Gastrodon Mud Shot was essentially an attempt to fix a "broken" identity and bring it in line with its more successful cousins, the "Mud Boys" (Whiscash, Swampert, and Quagsire).
+
+Here is the breakdown of why they finally pulled the trigger:
+
+1. Breaking the "Hidden Power" Trap
+For years, Gastrodon was held back by a terrible fast-move pool. Before the big updates, it was stuck with Mud Slap (which used to be very slow and clunky) or Hidden Power. Because Hidden Power is RNG-dependent and generally poor for energy, Gastrodon was considered "unplayable" in high-level PvP despite having an incredible movepool of Body Slam and Earth Power. Giving it Mud Shot was the most direct way to make it competitive.
+
+2. Standardizing the "Mud Boy" Archetype
+Niantic tends to balance Pokémon based on their "family" roles. Whiscash, Quagsire, and Swampert all share the Water/Ground typing and all rely on Mud Shot to spam high-pressure charged moves.
+
+Gastrodon has the best "bait" move of the group (Body Slam).
+
+By giving it Mud Shot, Niantic transformed it from a niche "slapper" into a top-tier spammer that could theoretically out-cycle even Whiscash.
+
+3. Creating a "Sidegrade" Choice
+Interestingly, Gastrodon is one of the few Pokémon where the fast moves are actually competitive with one another.
+
+Mud Slap was buffed to be a high-damage farm-down move.
+
+Mud Shot was added to be a high-energy spam move.
+
+Niantic likely wanted to give players a strategic choice: do you want to win by grinding the opponent down with fast move damage (Mud Slap), or do you want to win by winning the "race" to the charged move (Mud Shot)?
+
+4. The "World of Wonders" Update (March 2024)
+A major turning point was the World of Wonders season, where Niantic cleaned up many "legacy" and "missing" moves. They realized Gastrodon had the stats to be a Great League staple but lacked the "engine" (a fast move) to get there. They also finally made Earthquake available to it via regular TM during this time, signaling a full commitment to making Gastrodon a premiere Ground attacker.
+
+The irony? After years of fans begging for Mud Shot, Niantic buffed Mud Slap so significantly that many players now find the "old" move more effective for the current meta!
+
+Since we're looking at history, would you like to see how Gastrodon's performance compares specifically against the other 'Mud Boys' this season?
+
+You said
+When was Mud Shot added to Gastrodon?
+
+Gemini said
+Gastrodon actually received Mud Shot fairly recently, during the Max Out season update in September 2024.
+
+For years, Gastrodon was the only "Mud Boy" (Water/Ground type) that didn't have access to the move, which kept it in the shadow of Whiscash and Quagsire. While it received Earthquake earlier that same year (March 2024), it wasn't until the September 2024 rebalance that Niantic finally overhauled the Ground-type fast moves and gave Gastrodon the high-energy "engine" it had been missing.
+
+The Great Fast Move Flip-Flop
+The timing was actually a bit ironic because of how Niantic balanced the moves in that same update:
+
+September 2024: Gastrodon finally gets Mud Shot. However, in the same patch, Niantic buffed Mud Slap so significantly (increasing its damage and energy) that many players realized Mud Slap was actually the superior move for Gastrodon's bulky stats.
+
+March 2026 (Current Season): We are seeing another shift. Now that Mud Slap has been toned down slightly and Mud Shot has been reverted to its classic high-energy state (4.5 EPT), the debate between the two is closer than ever.
+
+Timeline Summary
+May 2019: Gastrodon is released (stuck with the mediocre Mud Slap or Hidden Power).
+
+March 2024: Receives Earthquake as a permanent addition to its movepool.
+
+September 2024: Finally receives Mud Shot, alongside a massive buff to its original move, Mud Slap.
+
+March 2026: Current "Memories in Motion" season rebalances both moves again, keeping Mud Slap as the heavy hitter and Mud Shot as the high-speed spammer.
+
+Since you're looking at its move history, would you like me to compare how its energy-to-move timings changed from the 2024 update to today?

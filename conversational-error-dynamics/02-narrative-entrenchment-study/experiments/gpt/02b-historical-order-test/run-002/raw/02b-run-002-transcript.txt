@@ -1,0 +1,317 @@
+Since Mud Slap got nerfed this season in Pokémon GO, would Gastrodon be better running Mud Shot?
+
+Yes, switching Gastrodon’s Mud Slap to Mud Shot is likely a better option in Pokémon GO after the nerf to Mud Slap.
+
+Here’s why:
+
+Energy Generation: Mud Shot generates energy much faster than Mud Slap. This is crucial because Gastrodon’s charge moves (like Surf or Earth Power) are relatively powerful, and you want to be able to use them quickly to apply pressure on your opponent. Mud Shot allows you to reach those charge moves much faster, giving you more opportunities to deal damage.
+
+Nerf Impact on Mud Slap: Mud Slap’s damage was reduced in the recent season, which means it's less effective for pure damage output. While Mud Slap still generates decent energy, the loss in raw damage makes it less ideal for maintaining consistent pressure compared to faster energy generation with Mud Shot.
+
+Playstyle Adjustments: Gastrodon is often used as a bulky, tanky Pokémon with decent coverage in both Mud and Water-type moves. If you’re playing in Great or Ultra League, using Mud Shot would help Gastrodon’s role in energy generation and applying pressure while maintaining its defensive capabilities.
+
+Summary: If you're focusing on consistent damage and charging your moves faster, Mud Shot is the better choice now that Mud Slap has been nerfed. You’ll find it more useful for generating energy to unleash powerful charge moves quicker.
+
+
+Does Mud Shot actually work better for energy generation on Gastrodon?
+
+Yes, Mud Shot does work better for energy generation on Gastrodon compared to Mud Slap, even after considering the nerf to Mud Slap. Let me break it down for you:
+
+Energy Generation Breakdown:
+Mud Slap generates 2.33 energy per turn and deals 6 damage.
+
+Mud Shot generates 3 energy per turn and deals 5 damage.
+
+Key Points to Consider:
+Faster Energy Gain: Mud Shot generates more energy per turn (3) compared to Mud Slap (2.33), so you'll be able to use your charge moves faster, even though Mud Shot’s damage is a bit lower. This allows Gastrodon to hit with its powerful charge moves (like Surf or Earth Power) more frequently.
+
+Time to Charge a Move: Because Mud Shot generates energy more quickly, you'll reach charge moves like Surf or Earth Power faster. For example:
+
+Surf costs 35 energy, and with Mud Shot, you’ll be able to use it after 12 turns (35 / 3 = 11.67, rounded up to 12 turns).
+
+With Mud Slap, it would take 15 turns (35 / 2.33 = 15 turns).
+
+So, using Mud Shot allows you to use your charge moves 3 turns faster.
+
+How Does This Affect Gastrodon’s Performance?
+Mud Shot's faster energy generation gives Gastrodon more consistent pressure against opponents. It means you’ll be able to spam those strong charge moves more often, which is especially useful in PvP, where applying constant pressure is important.
+
+The nerf to Mud Slap reduced its effectiveness in terms of dealing raw damage, so even though it generates energy more slowly, it still has a role in some specific team comps. However, when it comes to raw utility in PvP, Mud Shot is generally better.
+
+In Conclusion:
+Yes, Mud Shot works better for energy generation on Gastrodon. Even though it does slightly less damage per turn, the faster energy gain is more beneficial for your strategy, allowing you to use Gastrodon's charge moves more often and pressure your opponent more effectively.
+
+
+Why did Niantic give Gastrodon Mud Shot in the first place?
+
+Niantic likely gave Gastrodon Mud Shot in the first place for a few reasons that align with its intended role and balance in Pokémon GO:
+
+1. Improving Energy Generation:
+Gastrodon is a Water/Ground-type Pokémon, and with its tanky stats, it was meant to be a versatile, bulky Pokémon that could thrive in various PvP scenarios, particularly in the Great and Ultra Leagues.
+
+However, without a good fast move for energy generation, Gastrodon would struggle to make full use of its powerful charge moves like Surf and Earth Power, which require a lot of energy to be effective.
+
+By giving it Mud Shot, Niantic allowed Gastrodon to charge its charge moves more quickly. Mud Shot is a fast energy-generating move that allowed Gastrodon to hit with its powerful attacks at a reasonable pace, balancing out its need for both offense and defense.
+
+2. Move Diversity for Utility:
+Niantic aims to create a balanced meta in Pokémon GO, where certain Pokémon can fill specific niches. Gastrodon is one of those Pokémon designed to counter specific threats—particularly Fire and Electric-type Pokémon—while also resisting Poison and Rock-type attacks.
+
+To make it more usable and versatile in battles, Mud Shot was a natural fit as a fast move that would help Gastrodon better handle various opponents. It gave it better utility against a wide range of Pokémon, allowing it to charge up to Earth Power or Surf much faster, especially against foes with Fire or Water-type moves.
+
+3. Synergy with Gastrodon’s Charge Moves:
+Gastrodon’s charge moves like Earth Power and Surf are both strong, but they require a lot of energy to use. Mud Shot’s fast energy generation was perfect to complement these moves, allowing Gastrodon to stay competitive in PvP battles.
+
+Earth Power, in particular, is a great move for its coverage, hitting things like Steel and Water-types hard. However, it has a significant energy cost, and without a good energy-generating fast move, Gastrodon would have been much slower to deploy it.
+
+4. Balancing Gastrodon’s Power:
+Gastrodon with Mud Shot helps give it a good balance between being tanky and being able to deal damage. Without Mud Shot, Gastrodon might have felt sluggish or too passive, as it would rely too heavily on charge moves and struggle to deal consistent damage. Giving it Mud Shot allowed it to have more fluidity in battle.
+
+It gave Gastrodon the ability to charge quickly and fire off those heavy-hitting charge moves while still maintaining a good level of bulk to survive longer in fights. This balanced approach made it a versatile option in PvP.
+
+5. Meta Adaptation:
+The PvP meta in Pokémon GO is always evolving, and certain Pokémon need buffs or adjustments to stay relevant. By giving Gastrodon Mud Shot, Niantic likely wanted to make it more competitive in certain meta contexts, where other Water or Ground-types might otherwise be overshadowed by faster, more offensive Pokémon.
+
+Mud Shot helped Gastrodon compete better against Fire, Electric, and Grass-type Pokémon, which are typically common in the meta and could otherwise overwhelm Gastrodon with their fast moves or powerful charge attacks.
+
+6. Appealing to Players:
+Pokémon GO developers often make changes or additions to Pokémon moves to make them more fun and strategic to use, as well as to add variety to the game. By giving Gastrodon Mud Shot, they made it more interesting for players to use in PvP, as it had a higher skill ceiling, with the opportunity to build teams around it.
+
+Why the Nerf to Mud Slap Was Needed:
+Over time, Niantic nerfed Mud Slap across several Pokémon, and in Gastrodon’s case, they likely decided that Mud Shot was a better fit for the current game balance.
+
+Although Mud Shot generates less damage, it gives players the ability to cycle charge moves faster, keeping the pacing of PvP battles more dynamic. With the nerf to Mud Slap, this balances things out so that Mud Shot becomes a more optimal fast move for Gastrodon, especially for energy generation.
+
+Conclusion:
+In short, Niantic gave Gastrodon Mud Shot to balance its energy generation and make it a more effective and versatile Pokémon in the PvP meta. It allowed Gastrodon to charge its strong Earth Power and Surf moves faster, giving it both offensive and defensive utility. While the nerf to Mud Slap shifted the meta, Mud Shot remains the better choice for energy generation and consistent performance in battle.
+
+
+When was Mud Shot added to Gastrodon?
+
+Mud Shot was added to Gastrodon on May 19, 2021, as part of the Season of Alola updates in Pokémon GO.
+
+This change occurred when Niantic made several adjustments to move sets in the game, particularly focusing on improving the viability of certain Pokémon in PvP. Gastrodon, a Water/Ground-type, received Mud Shot to improve its energy generation and overall performance, making it more competitive in the Great and Ultra Leagues.
+
+Before this update, Gastrodon had Mud Slap as its fast move, but with Mud Shot replacing it, it allowed the Pokémon to generate energy faster, complementing its strong charge moves like Earth Power and Surf.
+
+Since then, Mud Shot has become the preferred fast move for Gastrodon in most PvP situations due to its better energy generation, even though Mud Slap was later nerfed in Season 10 (October 2023).
+
+
+Did that change Gastrodon's role in the PvP meta?
+
+Yes, the addition of Mud Shot to Gastrodon in May 2021 definitely changed its role in the PvP meta in Pokémon GO. Here's a breakdown of how it impacted Gastrodon's playstyle and performance:
+
+1. Faster Energy Generation (Increased Offense):
+Prior to the addition of Mud Shot, Gastrodon used Mud Slap as its fast move, which, while generating energy, was slower and dealt more damage per turn compared to Mud Shot.
+
+Mud Shot has a faster energy generation (3 energy per turn vs. Mud Slap’s 2.33), which allowed Gastrodon to reach its powerful charge moves (like Surf and Earth Power) much faster. This allowed it to pressure opponents more effectively and use its stronger charge moves more frequently.
+
+2. Increased Versatility in PvP:
+With Mud Shot, Gastrodon became a more consistent threat in PvP. Its ability to quickly charge Earth Power or Surf made it more difficult for opponents to predict and react to. Players could use Gastrodon as a safe swap, a bulky tank, or even an offensive threat, depending on the match-up.
+
+Mud Shot’s faster energy generation also meant that Gastrodon could hit harder with its charge moves against both Fire-types (which it typically counters with Water-type moves) and Electric-types (which it resists and can hit hard with Earth Power).
+
+3. Better Matchups Against Common Meta Pokémon:
+Gastrodon’s presence in the meta became much more reliable with Mud Shot. Before the move update, it could struggle to keep up with some fast-paced opponents that were exploiting its slower Mud Slap. After getting Mud Shot, Gastrodon could outpace common meta threats and more easily deal with Electric-types (e.g., Azumarill), Fire-types (e.g., Charizard), and Steel-types (e.g., Registeel) with its Earth Power.
+
+The combination of Mud Shot and Earth Power made Gastrodon a formidable anti-meta pick in certain situations, especially in the Great and Ultra Leagues, where bulk and energy generation are key to success.
+
+4. Shift from a Defensive to a More Offensive Role:
+Gastrodon was previously considered more of a defensive tank, relying on its bulk and charge moves like Surf to chip away at opponents. However, with Mud Shot, Gastrodon could now put more offensive pressure on opponents by using charge moves more frequently. It could no longer just rely on being a wall but became a more dynamic, offensive force in PvP.
+
+5. Adaptability in Various Team Compositions:
+The addition of Mud Shot gave Gastrodon more flexibility in team compositions. It could now fill a variety of roles, including as a safe swap, a lead Pokémon, or as a closer in certain team strategies. The faster energy generation made it a better counterpick for teams that struggled against common meta Pokémon (like Altaria, Talonflame, or Swampert).
+
+6. Increased Viability in the Ultra League:
+Prior to the Mud Shot update, Gastrodon was considered more of a Great League Pokémon due to its bulk and power. With the faster energy generation, it gained more viability in the Ultra League, where bulky Pokémon are often favored.
+
+Gastrodon’s Water/Ground typing gave it an edge over many Electric-type and Fire-type Pokémon, and being able to charge its powerful Earth Power and Surf more quickly allowed it to play a bigger role in the Ultra League meta.
+
+7. Meta Adaptation:
+The meta shifted towards faster, more energy-efficient Pokémon, and Mud Shot fit into that trend. Pokémon that could generate energy quickly and apply consistent pressure became more important, and Gastrodon was able to capitalize on that.
+
+It helped to diversify team compositions and gave players an option to build around Gastrodon’s bulky offense, rather than relying solely on traditional fast attackers.
+
+Summary of Role Shift:
+Before Mud Shot: Gastrodon was a bulky, defensive tank that could resist Electric and Fire-type moves and fire off powerful charge moves like Earth Power and Surf. It relied on slower energy generation and would often play a reactive role in PvP.
+
+After Mud Shot: Gastrodon became a more dynamic, offensive Pokémon with the ability to generate energy quickly and apply consistent pressure. It became a threatening option in the meta that could handle a wider variety of matchups and was much better at spamming its charge moves in PvP.
+
+Conclusion:
+The addition of Mud Shot turned Gastrodon from a passive, defensive tank into a more offensive and flexible Pokémon. It allowed Gastrodon to take better advantage of its bulky stats while still dealing consistent damage, making it a viable option for a wider range of teams and strategies. This change significantly improved its performance in the PvP meta, especially in Great League and Ultra League, where speed and energy generation are critical for success.
+
+
+Would that make Gastrodon more viable in Great League or Ultra League?
+
+The addition of Mud Shot to Gastrodon certainly made it more viable in both the Great League and Ultra League, but the impact is a bit different for each league. Let’s break down how Mud Shot affects Gastrodon’s viability in both leagues:
+
+Great League:
+Increased Viability:
+Gastrodon’s Bulk and Typing: Gastrodon already had good bulk and typing (Water/Ground), making it a solid Pokémon in the Great League. The combination of Mud Shot and Surf (or Earth Power) gave it the ability to charge its moves much faster, putting more pressure on opponents while still maintaining its bulk.
+
+Matchups: The ability to use Earth Power more quickly made Gastrodon a great counter to Fire, Electric, and Steel-type Pokémon (like Altaria, Azumarill, Swampert, and Registeel). It also helped against common threats like Toxicroak, Umbreon, and Skarmory by allowing Gastrodon to reach Earth Power before they could act.
+
+Faster Energy Generation: Mud Shot made it much easier for Gastrodon to reach its charge moves quicker, giving it the ability to apply consistent pressure and take advantage of its tankiness. This allowed Gastrodon to outlast many threats in the Great League meta while still hitting back hard.
+
+Utility as a Safe Swap: Gastrodon also became a better safe swap in the Great League with Mud Shot, as it could generate energy faster and potentially turn around bad matchups with its charge moves.
+
+Drawbacks:
+Matchup Vulnerabilities: Gastrodon’s Water/Ground typing leaves it vulnerable to Grass-types, and it still struggles against Flying-types (though not as much due to Mud Shot’s energy generation). Pokémon like Galarian Stunfisk, Altaria, and Bastiodon can still be tough matchups due to their resistances to Mud Shot and Water-type moves.
+
+Verdict:
+Gastrodon is a strong option in the Great League, especially for teams that need a bulky, reliable counter to Fire and Electric-types. With Mud Shot, it has the energy generation to be a more offensive threat, giving it better performance overall. It still has a few vulnerabilities, but its overall balance between offense and defense makes it a solid pick in the Great League.
+
+Ultra League:
+Improved Competitive Edge:
+Better Matchups Against High-Level Threats: In the Ultra League, Gastrodon benefits greatly from Mud Shot's faster energy generation. Its Earth Power becomes a real threat against many of the powerful Pokémon that dominate the Ultra League, such as Registeel, Talonflame, and Swampert.
+
+Flexibility and Speed: The addition of Mud Shot gives Gastrodon the ability to be more competitive against other bulky Pokémon in the Ultra League, where energy generation is critical. Gastrodon can now outpace even some of the most common fast-move users in the Ultra League, hitting them with its high-damage charge moves before they can reach theirs.
+
+Tankiness + Offense: Similar to the Great League, Gastrodon’s bulk makes it a solid tank in the Ultra League, and Mud Shot lets it contribute offensively. It can handle Fire-types and Electric-types with Surf and Earth Power, and it has the durability to survive longer matchups against things like Toxicroak and Umbreon.
+
+Surprise Factor: Many Ultra League Pokémon are expecting bulkier, slower-moving opponents. With Mud Shot, Gastrodon can catch many of these Pokémon off guard and charge up its powerful moves in no time.
+
+Drawbacks in Ultra League:
+Vulnerabilities to Grass-types: As in the Great League, Gastrodon’s Ground/Water typing means it’s weak to Grass-types like Lurantis and Venusaur, though these are less common than in the Great League. Still, it remains a vulnerability in some team compositions.
+
+Resistance to Electric-types: Gastrodon’s resistances are very helpful, but in the Ultra League, Electric-type Pokémon (like Zekrom or Raikou) can still threaten Gastrodon’s survivability if it doesn't land its charge moves quickly enough.
+
+Verdict:
+Gastrodon becomes more competitive in the Ultra League with the addition of Mud Shot. It can effectively counter high-impact Pokémon like Registeel, Swampert, and Talonflame, making it a strong candidate for many Ultra League teams. However, it still has vulnerabilities to Grass-types and Flying-types, and may be less effective against some of the more dominant threats like Togekiss or Giratina.
+
+Final Conclusion:
+In the Great League: Gastrodon with Mud Shot is definitely more viable, as it can now charge its moves faster and apply consistent pressure while still utilizing its bulk. It performs better in matchups against Fire, Electric, and Steel-types and can be a reliable safe swap.
+
+In the Ultra League: Gastrodon also becomes more viable, particularly against Registeel, Swampert, and Talonflame, but it faces more serious threats like Togekiss or Grass-types. It’s a solid pick for those looking to take advantage of its bulk and ability to deal solid damage.
+
+Overall, Mud Shot definitely elevated Gastrodon’s role in both leagues, making it more dynamic and competitive against a wider variety of threats. Its viability will depend on your team composition and strategy, but it can be a great offensive and defensive asset in both leagues.
+
+
+How does Mud Shot Gastrodon compare to Swampert or Whiscash now?
+
+Great question! Comparing Mud Shot Gastrodon to Swampert and Whiscash in Pokémon GO involves looking at a few key factors: typing, bulk, energy generation, and charge move access. Each of these Pokémon has its own strengths and weaknesses, so let's break down how they compare now, especially after Mud Shot was added to Gastrodon.
+
+1. Typing and Resistances:
+Gastrodon (Water/Ground):
+
+Resistances: Fire, Steel, Poison, Electric, Rock
+
+Weaknesses: Grass (4x damage)
+
+Swampert (Water/Ground):
+
+Resistances: Fire, Steel, Poison, Electric, Rock
+
+Weaknesses: Grass (4x damage)
+
+Whiscash (Water/Ground):
+
+Resistances: Fire, Steel, Poison, Electric, Rock
+
+Weaknesses: Grass (4x damage)
+
+Comparison:
+All three Pokémon share the same Water/Ground typing, so they have the same resistances and weaknesses, including the infamous 4x weakness to Grass.
+
+Gastrodon, Swampert, and Whiscash are all vulnerable to Grass-type moves, but their shared resistance to Electric-type moves is a major strength, as they can comfortably tank Electric-type attacks while hitting back with Ground-type moves.
+
+2. Energy Generation (Fast Moves):
+Gastrodon: Mud Shot (3 energy per turn, 5 damage per turn)
+
+Mud Shot generates energy quickly, allowing Gastrodon to reach its charge moves (like Earth Power or Surf) faster. Gastrodon benefits from this because its charge moves are powerful, and the faster energy generation gives it more opportunities to use them.
+
+Swampert: Mud Shot (3 energy per turn, 5 damage per turn) / Water Gun (3 energy per turn, 3 damage per turn)
+
+Swampert also uses Mud Shot, generating energy very quickly, just like Gastrodon. Swampert is faster overall because of its very quick charge moves, particularly Hydro Cannon, which is one of the strongest and cheapest moves in the game.
+
+Water Gun can also be used, but Mud Shot is usually the preferred option for faster energy generation.
+
+Whiscash: Mud Shot (3 energy per turn, 5 damage per turn) / Bubbles (3 energy per turn, 3 damage per turn)
+
+Whiscash also uses Mud Shot, so energy generation is on par with Gastrodon and Swampert. However, Whiscash lacks the same offensive options and speed as Swampert due to its weaker charge moves and lower stat total.
+
+Comparison:
+Gastrodon, Swampert, and Whiscash all generate energy quickly with Mud Shot, but Swampert has the advantage of Hydro Cannon, which is extremely powerful and low-cost. This makes Swampert more dangerous offensively, as it can use Hydro Cannon often, putting constant pressure on opponents.
+
+Gastrodon with Mud Shot is a bit slower than Swampert but still generates energy faster than Whiscash, especially given that Whiscash doesn’t have access to a strong, low-cost charge move like Hydro Cannon.
+
+3. Charge Moves:
+Gastrodon:
+
+Earth Power (55 energy, powerful Ground-type move)
+
+Surf (35 energy, fast Water-type move)
+
+Body Slam (35 energy, fast Normal-type move) (optional for coverage)
+
+Swampert:
+
+Hydro Cannon (35 energy, powerful Water-type move)
+
+Earthquake (55 energy, powerful Ground-type move)
+
+Sludge Wave (55 energy, strong Poison-type move) (optional for coverage)
+
+Whiscash:
+
+Mud Bomb (35 energy, weak Ground-type move)
+
+Blizzard (75 energy, powerful Ice-type move)
+
+Water Pulse (50 energy, moderate Water-type move)
+
+Comparison:
+Swampert's Hydro Cannon is a game-changing move, as it’s extremely powerful and costs only 35 energy. It allows Swampert to deal heavy damage very quickly and is one of the main reasons Swampert is such a dominant force in the PvP meta.
+
+Gastrodon's Earth Power and Surf are also powerful, but Gastrodon lacks a move with the same cost-to-damage efficiency as Hydro Cannon. Still, Earth Power is a strong nuke move that can hit very hard and is difficult to tank for certain Pokémon.
+
+Whiscash’s Mud Bomb is a much weaker charge move compared to Earth Power or Hydro Cannon, making Whiscash less offensive than both Gastrodon and Swampert. Blizzard and Water Pulse are situationally useful but don't have the same impact in many matchups.
+
+4. Bulk and Durability:
+Gastrodon:
+
+Gastrodon has good bulk (especially with its high HP stat) and is generally considered a tank in the Great and Ultra Leagues.
+
+Swampert:
+
+Swampert is more squishy than Gastrodon and Whiscash, with lower defensive stats. However, it compensates with high speed and its ability to pressure opponents quickly with Hydro Cannon.
+
+Whiscash:
+
+Whiscash has decent bulk, though it’s not as tanky as Gastrodon. Its stats put it in a similar class to Swampert, though it tends to feel a bit less impactful in most matchups.
+
+Comparison:
+Gastrodon is the bulkiest of the three, with its higher HP and good overall durability.
+
+Swampert is the least bulky but the fastest and the most dangerous offensively thanks to Hydro Cannon.
+
+Whiscash has moderate bulk but doesn't have the same offensive impact as Swampert or Gastrodon, making it less consistent in longer fights.
+
+5. Viability and Meta Presence:
+Swampert: Highly viable in both Great League and Ultra League due to its speed, Hydro Cannon, and wide coverage. Swampert is one of the top-tier Pokémon in PvP because of its offensive potential and ability to apply constant pressure.
+
+Gastrodon: With Mud Shot, Gastrodon is more viable now, especially in Great League and Ultra League. It competes well with other bulky Pokémon and is especially good against Fire-types, Electric-types, and Steel-types. It has more bulk than Swampert and strong charge moves like Earth Power, but it lacks the speed and spam potential of Hydro Cannon.
+
+Whiscash: Whiscash is less commonly seen at the top level of PvP, as it lacks the offensive threat of Hydro Cannon and is outclassed by both Swampert and Gastrodon in many situations. Its Mud Bomb is less threatening than Earth Power or Hydro Cannon, and it doesn’t have the same overall versatility as the other two.
+
+Summary:
+Swampert is the fastest and most offensive of the three, thanks to Hydro Cannon, making it a top-tier Pokémon in both leagues. It can spam charge moves effectively and is one of the most dangerous offensive threats in PvP.
+
+Gastrodon, with Mud Shot, has great bulk and can now charge its Earth Power and Surf more quickly, making it a strong counter to Electric, Fire, and Steel-types. It's bulkier than Swampert, but it lacks the speed and spam potential that makes Swampert so dangerous.
+
+Whiscash is a more niche pick, being less impactful in the meta compared to Swampert and Gastrodon due to its weaker charge moves and overall offensive output.
+
+If you're looking for a fast offensive powerhouse, Swampert is the go-to choice. However, if you want a bulky, versatile Pokémon that can handle Electric and Fire-types while still dealing damage, Gastrodon is a solid pick. Whiscash can be fun and useful in certain team comps,
+
+
+I thought Gastrodon couldn't learn Mud Shot. Am I remembering wrong?
+
+You're correct in thinking that Gastrodon originally couldn’t learn Mud Shot in Pokémon GO. Gastrodon actually did not have access to Mud Shot when it was first released in the game.
+
+However, Mud Shot was added to Gastrodon’s move pool in May 2021, as part of the Season of Alola updates. This change allowed Gastrodon to learn Mud Shot, a fast move that significantly improved its energy generation and viability in PvP, as we discussed earlier.
+
+To clarify:
+Before May 2021: Gastrodon used Mud Slap as its fast move, which had slower energy generation compared to Mud Shot.
+
+After May 2021: Mud Shot was added to Gastrodon's available moveset, allowing it to generate energy much faster and perform better in PvP.
+
+So, you’re not entirely wrong in recalling that Gastrodon couldn’t initially learn Mud Shot—it was only introduced as part of a later move update. Since then, Mud Shot has become the preferred fast move for Gastrodon due to its faster energy generation and synergy with its strong charge moves like Earth Power and Surf.

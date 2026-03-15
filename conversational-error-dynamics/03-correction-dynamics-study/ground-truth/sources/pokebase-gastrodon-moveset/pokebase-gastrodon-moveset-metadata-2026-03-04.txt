@@ -1,0 +1,20 @@
+Source URL:
+https://pokebase.app/pokemon-go/pokemon/gastrodon---east-sea
+
+Publisher:
+Pokebase
+
+Page Title:
+Gastrodon (East Sea) — Pokémon GO Moveset
+
+Capture Method:
+GoFullPage Chrome Extension
+
+Captured By:
+Chris Lazzaro
+
+Capture Date:
+2026-03-04
+
+Notes:
+Page lists Gastrodon's available fast moves. Mud Shot is not present in the documented move pool.

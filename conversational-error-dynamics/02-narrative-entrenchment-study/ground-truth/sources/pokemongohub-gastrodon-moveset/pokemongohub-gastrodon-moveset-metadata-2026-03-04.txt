@@ -1,0 +1,20 @@
+Source URL:
+https://db.pokemongohub.net/pokemon/423-West_Sea
+
+Publisher:
+Pokémon GO Hub
+
+Page Title:
+Gastrodon (West Sea) — Pokémon GO Database
+
+Capture Method:
+GoFullPage Chrome Extension
+
+Captured By:
+Chris Lazzaro
+
+Capture Date:
+2026-03-04
+
+Notes:
+Page lists Gastrodon's available fast moves. Mud Shot is not present in the documented move pool.
