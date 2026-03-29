@@ -1,0 +1,39 @@
+{
+	"study_id": "causal-synthesis-audit",
+	"experiment_id": "01b-run-039",
+	"hypothesis_tested": "Structural Fidelity Baseline",
+
+	"model_name": "OpenAI GPT",
+	"model_variant": "ChatGPT Web UI",
+	"model_interface": "Web UI (ChatGPT)",
+	"session_fresh": true,
+
+	"domain": "the modern obesity epidemic",
+	"domain_type": "public health / metabolic health",
+	"substrate": "drivers of rising obesity rates in the United States",
+
+	"prompt_ladder_version": "baseline-single-response",
+	"variant": "01b-modern-obesity-drivers",
+	"summit_reached": false,
+
+	"correction_occurred": false,
+	"correction_turn": null,
+	"retraction_latency_turns": null,
+	"correction_type": null,
+
+	"reversal_probe_executed": false,
+	"reversal_occurred": false,
+	"correction_stability": null,
+
+	"retrieval_triggered": false,
+
+	"experiment_date": "2026-03-22",
+	"experiment_time_local": "14:28",
+	"timezone": "PST",
+
+	"transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-039/raw/01b-run-039-transcript.txt",
+	"transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-039/raw/01b-run-039-snapshot.pdf",
+	"transcript_sha256": "A2C8A8C7444C2A296D8E2BC594D0AF318237FCF114B4870480556D7D1D6EE094",
+
+	"notes": "The response organizes the obesity epidemic into six primary factors, emphasizing that modern societies create conditions favoring a calorie surplus by default. While it mentions agricultural and economic policies that subsidize calorie-dense ingredients, it identifies 0 specific legislative acts, named government policies, or specific institutions. It identifies 4 explicit causal chains: the engineering of ultra-processed foods for hyper-palatability leading to stimulated reward pathways and overconsumption, desk-based work and transportation changes increasing sedentary behavior, urbanization leading to food deserts that push consumers toward cheaper calorie-dense options, and chronic stress or sleep deprivation affecting hormonal appetite regulation. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

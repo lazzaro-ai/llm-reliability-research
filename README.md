@@ -6,6 +6,8 @@ The project focuses on **conversational error dynamics** — specifically how mo
 
 Unlike most hallucination discussions that analyze single-turn answers, this work examines **how errors evolve across multi-turn conversational interaction**.
 
+The repository also includes a parallel research program, **Causal Synthesis Audit (CSA)**, which evaluates how models construct causal explanations across domains.
+
 ------------------------------------------------------------
 
 # Start Here
@@ -18,9 +20,15 @@ The repository map explains how the studies are organized, where to find protoco
 
 ------------------------------------------------------------
 
-# Research Focus
+# Research Programs
 
-This project investigates several behavioral mechanisms in large language models:
+This repository contains two primary research tracks:
+
+## 1. Conversational Error Dynamics (CED)
+
+Investigates how models behave during multi-turn conversations when incorrect premises are introduced and later challenged.
+
+Focus areas include:
 
 * delayed skepticism
 * narrative entrenchment
@@ -29,35 +37,49 @@ This project investigates several behavioral mechanisms in large language models
 * correction stability
 * correction reversal
 
-The goal is to document how conversational structure affects error correction behavior.
+## 2. Causal Synthesis Audit (CSA)
+
+Evaluates how models construct causal explanations across domains under neutral, single-turn conditions.
+
+Focus areas include:
+
+* structural fidelity of explanations
+* policy and institution attribution
+* causal chain completeness
+* abstraction vs specificity
+* cross-domain consistency
+
+CSA establishes a baseline for **what models include or omit**, which can then be compared against conversational behavior in CED.
 
 ------------------------------------------------------------
 
 # Methodology
 
-Experiments use **structured prompt ladders** that guide conversations through controlled phases.
+Experiments use structured, controlled designs depending on the research program:
 
-Typical structure:
+### Conversational Studies (CED)
 
-**Induction → Narrative Reinforcement → Doubt Introduction → Correction Observation**
+Induction → Narrative Reinforcement → Doubt Introduction → Correction Observation
+
+### Single-Turn Structural Studies (CSA)
+
+Neutral prompts designed to elicit unconstrained causal explanations without instruction bias.
 
 Core principles:
 
 * single-variable hypothesis testing
-* controlled conversational structure
+* controlled structure (multi-turn or single-turn depending on study)
 * no adversarial prompting during baseline studies
-* natural user curiosity during reinforcement
-* fixed prompt ladders
 * reproducible experimental procedures
 * strict artifact preservation
 
 Each experimental run preserves:
 
-* canonical transcripts (`.txt`)
-* human-readable transcripts (`.pdf`)
+* canonical transcripts (.txt)
+* human-readable snapshots (.pdf)
 * SHA256 artifact hashes
 * run metadata
-* ground-truth documentation
+* ground-truth documentation (where applicable)
 
 Raw artifacts are preserved separately from analytical interpretation.
 
@@ -67,80 +89,52 @@ Raw artifacts are preserved separately from analytical interpretation.
 
 The primary research work lives inside:
 
-```
 conversational-error-dynamics/
-```
+causal-synthesis-audit/
 
-This directory contains the experimental studies investigating conversational reasoning failures.
+### conversational-error-dynamics/
 
-Current studies include:
+Multi-turn conversational studies examining error formation, reinforcement, and correction behavior.
 
-### 01 — Delayed Skepticism Study
+### causal-synthesis-audit/
 
-Investigates how models respond when doubt appears **after narrative reinforcement**.
+Single-turn structural studies examining causal explanation fidelity across domains.
 
-### 02 — Narrative Entrenchment Study
-
-Examines how **explanatory structure and prompt ordering** influence narrative commitment around incorrect premises.
-
-### 03 — Correction Dynamics Study
-
-Investigates how models correct incorrect claims once narrative explanations have formed, including:
-
-* correction triggers
-* correction stability
-* correction reversal susceptibility
-
-Each study contains a consistent research structure including:
-
-* hypotheses
-* experimental protocols
-* prompt ladders
-* raw experiment transcripts
-* run metadata
-* analysis documentation
-* cross-model comparison (where applicable)
-* ground-truth verification artifacts
-
-The **REPO-MAP.md** file provides a detailed navigation guide to this structure.
+The REPO-MAP.md file provides a detailed navigation guide.
 
 ------------------------------------------------------------
 
 # Core Experimental Concepts
 
-**Narrative Entrenchment**
-The stabilization of an explanation around an incorrect premise after multiple conversational turns of elaboration.
+Narrative Entrenchment  
+The stabilization of an explanation around an incorrect premise after multiple conversational turns.
 
-**Reinforcement Depth**
-The number of conversational turns in which a model elaborates on a claim before doubt appears.
+Delayed Skepticism  
+Failure to question incorrect premises until late in a conversation.
 
-**User Doubt**
-Natural expressions of uncertainty from the user that may prompt model reconsideration.
+Correction Stability  
+Whether a corrected claim remains stable under continued interaction.
 
-**Correction Event**
-Any response where the model retracts, modifies, or questions a previous claim.
+Structural Fidelity (CSA)  
+The degree to which a model constructs complete, explicit, and causally linked explanations.
 
-**Correction Stability**
-Whether a corrected claim remains stable under additional conversational pressure.
-
-**Narrative Persistence**
-The tendency of models to preserve elements of an earlier explanation even after correction occurs.
+Selective Omission  
+The absence of expected entities (policies, institutions, mechanisms) in otherwise valid explanations.
 
 ------------------------------------------------------------
 
 # Primary Measurements
 
-The project evaluates several behavioral signals:
+Across studies, the project evaluates:
 
 * correction probability
 * correction latency
 * narrative persistence
-* confidence language shifts
-* retrieval activation
 * correction stability
 * correction reversal
-
-These measurements allow conversational transcripts to be converted into structured behavioral observations.
+* causal link density
+* policy and institution attribution
+* abstraction level
 
 ------------------------------------------------------------
 
@@ -149,11 +143,11 @@ These measurements allow conversational transcripts to be converted into structu
 To ensure reproducibility and evidentiary integrity:
 
 * raw transcripts are never modified after hashing
-* canonical transcripts (`.txt`) are preserved as primary artifacts
-* PDF transcripts mirror canonical transcripts
+* canonical transcripts (.txt) are preserved as primary artifacts
+* PDF snapshots mirror canonical transcripts
 * metadata files accompany each run
+* SHA256 hashes are generated for all primary artifacts
 * ground-truth documentation is archived separately
-* SHA256 hashes are generated for primary artifacts
 * analytical documents are version-controlled
 * no post-hoc transcript modification is permitted
 
@@ -161,13 +155,15 @@ To ensure reproducibility and evidentiary integrity:
 
 # Project Status
 
-Completed studies:
+### Conversational Error Dynamics (CED)
+* Study 01 — Delayed Skepticism (complete)
+* Study 02 — Narrative Entrenchment (complete)
+* Study 03 — Correction Dynamics (complete)
 
-* **Study 01 — Delayed Skepticism**
-* **Study 02 — Narrative Entrenchment**
-* **Study 03 — Correction Dynamics**
-
-Future studies will extend this framework to additional conversational behaviors and model environments while maintaining the same structured experimental methodology.
+### Causal Synthesis Audit (CSA)
+* Study 01 — Structural Fidelity Baseline
+    * GPT baseline (01a–01e): complete (250 runs)
+    * Gemini replication: in progress
 
 ------------------------------------------------------------
 

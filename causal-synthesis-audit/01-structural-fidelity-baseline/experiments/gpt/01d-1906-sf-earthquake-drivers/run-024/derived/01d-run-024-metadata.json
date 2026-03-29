@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-024",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:11",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-024/raw/01d-run-024-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-024/run-024-snapshot.pdf",
+  "transcript_sha256": "75b51c91934ca93e01085ef8ec33f7f54b3c03ec780ea2fb2a8f634758222c47",
+
+  "notes": "The response summarizes the 1906 disaster as a foundational event for seismic engineering, identifying the San Andreas Fault as the primary geological trigger. It details the failure of water mains preventing fire suppression and the subsequent development of redundant utility systems. While the narrative describes specific historical impacts like the partial implementation of the Burnham Plan and the risk of liquefaction in the Marina District, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing structural collapse, utility failure driving uncontrollable firestorms, the validation of elastic rebound theory, and the implementation of strict seismic building codes for resilience. The high density of physical mechanisms results in a classification of low abstraction."
+}

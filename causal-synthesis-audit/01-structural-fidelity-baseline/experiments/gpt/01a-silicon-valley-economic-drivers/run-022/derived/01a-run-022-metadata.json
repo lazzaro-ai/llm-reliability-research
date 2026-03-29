@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-022",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:26",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-022/raw/01a-run-022-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-022/raw/01a-run-022-snapshot.pdf",
+  "transcript_sha256": "5F5D66CCF2BC04C35100D73AF5496C85EAD3FFB800D8074FA79F504C21A3C0C5",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, access to capital, and technological innovation. It references 4 specific institutions: Hewlett-Packard, Stanford University, UC Berkeley, and NASA. It includes 4 explicit causal chains: Stanford encouraging research commercialization to create a pipeline of talent and startups, Frederick Terman mentoring future entrepreneurs to lay the foundation for the ecosystem, the proximity of venture capital in Menlo Park and Palo Alto allowing startups to secure early funding for rapid growth, and a self-reinforcing loop where success attracts the talent and capital that spur further innovation. No specific named policies are identified; references to "government contracts," "IP protection," and "incorporation laws" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

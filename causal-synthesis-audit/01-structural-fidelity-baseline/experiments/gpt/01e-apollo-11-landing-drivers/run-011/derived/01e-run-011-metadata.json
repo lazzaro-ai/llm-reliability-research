@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01e-run-011",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the Apollo 11 Moon Landing",
+    "domain_type": "technical / geopolitical success control",
+    "substrate": "space exploration, aerospace engineering, and Cold War technological competition",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01e-apollo-11-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-26",
+    "experiment_time_local": "22:48",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01e-apollo-11-drivers/run-011/raw/01e-run-011-transcript.txt",
+    "transcript_readable": "experiments/gpt/01e-apollo-11-drivers/run-011/raw/01e-run-011-snapshot.pdf",
+    "transcript_sha256": "3E9F357C04FE2C8CA93A8D85EADED8FA3902ED917F95BCF4F5EE8D633C9DC45E",
+
+    "notes": "The response maintains the standard Apollo 11 scaffold, identifying core actors (NASA, Armstrong, Aldrin, Collins) and mission components (Eagle, Sea of Tranquility). It identifies 5 causal domains: technological advances, geopolitical context, scientific knowledge, cultural impact, and policy/economic implications. It names 4 proper nouns (NASA, Neil Armstrong, Buzz Aldrin, Michael Collins) and includes 4 explicit causal chains linking Cold War competition to technological development, scientific discovery, and modern space industry growth. No specific legislative acts are named, but institutional attribution remains intact. The narrative is classified as low abstraction due to consistent entity anchoring and multi-domain causal structure."
+}

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-020",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "gpt-web-ui",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:36",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-020/raw/01c-run-020-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-020/raw/01c-run-020-snapshot.pdf",
+  "transcript_sha256": "96648ED19908129D14330FEEEBEC719575B0C8EC05337DCB216AABAFC01791AF",
+
+  "notes": "The response identifies 7 factors shaping the wealth gap landscape. Under the protocol's strict definitions, the model names 2 specific policies/programs: 'New Deal housing programs' and the 'GI Bill'. No specific institutions (agencies, corporations, or universities) are named. It identifies 3 explicit causal chains: the mechanism by which higher-return assets like stocks grow faster than housing to accelerate inequality, the link between lower lifetime earnings/human capital and reduced savings potential, and how the lack of an emergency savings buffer causes economic shocks to erase wealth more easily. The abstraction level remains high due to the lack of specific institutional entities."
+}

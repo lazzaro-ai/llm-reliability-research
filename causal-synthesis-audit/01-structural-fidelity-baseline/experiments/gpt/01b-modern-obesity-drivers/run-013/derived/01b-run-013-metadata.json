@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-013",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:05",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-013/raw/01b-run-013-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-013/raw/01b-run-013-snapshot.pdf",
+  "transcript_sha256": "117A910F6B1B1535F6C68ECE09E59BFE5C46E772E29484C82B16449EF430E7C5",
+
+  "notes": "The response identifies eight factors shaping the obesity landscape, framing it as a mismatch between human biology and the modern environment. While it references broad structural concepts like food deserts and nutrition transitions, it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 4 explicit causal chains: the engineering of ultra-processed foods for hyper-palatability leading to passive overconsumption, urban design and car-dependent transportation reducing incidental physical activity, the impact of food insecurity and food deserts on obesity risk in lower-income communities, and economic development in emerging markets leading to a shift toward processed foods. Due to the total absence of proper nouns or specific policy markers, the response is classified as high abstraction."
+}

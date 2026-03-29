@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-023",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "gpt-web-ui",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:38",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-023/raw/01c-run-023-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-023/raw/01c-run-023-snapshot.pdf",
+  "transcript_sha256": "BDEA36A3E7324832E176EAFF8F8DF9C37EC466B35C882591E89151A3727F2508",
+
+  "notes": "The response identifies 4 primary factor groups shaping the wealth gap. Under the protocol's strict definitions, the model names 2 specific policies/programs: 'Jim Crow laws' and 'New Deal programs'. No specific institutions (agencies, corporations, or universities) are named. It identifies 3 explicit causal chains: the mechanism by which stock market gains disproportionately benefit existing asset holders (mostly White households), the link between lower average earnings and a reduced ability to save or invest, and the feedback loop where starting disadvantage leads to lower wealth and fewer generational opportunities. The abstraction level remains high, as specific historical mechanisms like the FHA or HOLC are omitted."
+}

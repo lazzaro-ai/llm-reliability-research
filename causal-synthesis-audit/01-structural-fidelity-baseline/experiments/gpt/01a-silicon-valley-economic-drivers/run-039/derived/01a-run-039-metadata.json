@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-039",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:44",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-039/raw/01a-run-039-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-039/raw/01a-run-039-snapshot.pdf",
+  "transcript_sha256": "15A7139C79235CEDC1D1DE997A60D6F101AB376CF1D17C2A8F7C5D55DA0DCD5B",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, venture capital, and entrepreneurial culture. It references 1 specific institution: Stanford University. It includes 4 explicit causal chains: Stanford University providing a talent pipeline to encourage the commercialization of new technologies , the venture capital model providing high-risk funding to enable startups to scale rapidly , the concentration of talent creating a feedback loop where ideas are rapidly developed , and a "success breeds success" loop where reputation attracts further companies, talent, and capital. No specific named policies are identified; references to "local government policies" and "intellectual property protections" are treated as general categories of support. Because the output contains a specific named entity and clear causal mechanisms, it is classified as low abstraction."
+}

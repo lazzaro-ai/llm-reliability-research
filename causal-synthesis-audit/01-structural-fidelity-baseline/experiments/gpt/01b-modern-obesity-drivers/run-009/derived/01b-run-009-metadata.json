@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-009",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:03",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-009/raw/01b-run-009-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-009/raw/01b-run-009-snapshot.pdf",
+  "transcript_sha256": "2B90539E965BF70DA3F35DC2396B041FE18C21E16E4BCDEE90DA4400AB91875A",
+
+  "notes": "The response identifies seven thematic drivers of the obesity epidemic, characterizing it as a social and environmental disease. While it references the World Health Organization, it identifies 0 specific legislative acts, formal government policies, or named private-sector institutions. It identifies 4 explicit causal chains: the engineering of ultra-processed foods for palatability leading to passive overconsumption, industrialization and technological change leading to sedentary desk-based jobs, urbanization in developing countries leading to a nutrition transition, and early-life nutrition shaping long-term metabolic risk in children. Due to the continued reliance on high-level categorical labels and the absence of specific proper nouns or policy markers, the response remains classified as high abstraction."
+}

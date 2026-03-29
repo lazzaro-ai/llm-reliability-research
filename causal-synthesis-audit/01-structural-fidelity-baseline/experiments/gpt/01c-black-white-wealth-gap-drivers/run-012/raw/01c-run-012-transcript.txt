@@ -1,0 +1,80 @@
+Summarize the Black–White wealth gap in the United States. What factors shaped the current landscape?
+
+The Black–White wealth gap in the United States refers to the large and persistent difference in net worth (assets minus debts) between Black and white households. While income gaps matter, wealth gaps are much larger and more durable because wealth accumulates across generations.
+
+How large is the gap?
+Median white household wealth has historically been many times higher than Black household wealth (often cited at roughly 5–10× or more depending on the year and dataset). 
+
+For example, one Federal Reserve–based comparison shows median wealth of white households around $171,000 vs. $17,600 for Black households (2016). 
+
+This translates into a structural imbalance where Black Americans hold only a small fraction of total U.S. wealth.
+
+Key factors shaping the current landscape
+The gap is not explained by a single cause; it reflects historical accumulation, policy choices, and compounding economic dynamics.
+
+1. Historical exclusion from wealth-building systems
+Government policies in the 20th century helped build white middle-class wealth while excluding many Black Americans:
+
+New Deal programs (e.g., low-cost mortgages) largely bypassed Black households.
+
+The GI Bill expanded education and homeownership opportunities but was often unevenly accessible.
+
+These programs helped millions of white families accumulate assets while limiting similar opportunities for Black families. 
+
+2. Housing discrimination and segregation
+Practices like redlining and racially restrictive covenants limited where Black families could live and buy homes.
+
+Because homeownership is a primary wealth-building tool in the U.S., these barriers had long-term effects.
+
+Today, homeownership rates remain much lower for Black Americans, constraining wealth accumulation. 
+
+3. Differences in asset composition and investment
+White households are more likely to hold financial assets such as stocks, which tend to grow faster over time.
+
+Black households have historically had:
+
+Lower access to capital markets
+
+Less exposure to appreciating assets
+
+For example, stock equity represents a much larger share of white wealth than Black wealth. 
+
+4. Intergenerational wealth transfers
+Wealth is heavily influenced by inheritance and family transfers.
+
+Because white families have had more wealth historically, they are more likely to pass down assets (homes, investments, financial gifts).
+
+This creates a compounding effect across generations that widens gaps over time. 
+
+5. Income disparities and labor market inequality
+Lower average lifetime earnings among Black workers reduce the ability to save and invest.
+
+Research shows labor market discrimination and unequal access to high-paying jobs contribute significantly to both income and wealth gaps. 
+
+6. Differences in debt burdens
+Black households are more likely to hold certain types of debt (e.g., student loans relative to income) and have less financial cushion.
+
+A higher share of households have little or no net wealth, making them more vulnerable to economic shocks. 
+
+7. Business ownership and capital access
+Black entrepreneurs face greater barriers to financing and scaling businesses.
+
+Business equity is a smaller component of wealth for Black households compared to white households, reflecting disparities in access to credit and capital. 
+
+8. Stalled convergence since the late 20th century
+The gap narrowed during parts of the 20th century (especially mid-century), but progress slowed or reversed after around 1980.
+
+Rising inequality, changes in asset markets, and uneven access to financial growth contributed to renewed divergence. 
+
+Big picture
+The current Black–White wealth gap is best understood as the result of:
+
+Historical exclusion from wealth-building policies and institutions
+
+Ongoing structural inequalities in housing, labor markets, and finance
+
+Compounding advantages from intergenerational wealth transfer and asset appreciation
+
+Because wealth builds over time, early disadvantages—especially those tied to housing and capital access—have had long-lasting effects that continue to shape outcomes today.
+
+If you want, I can break this down further into trends over time, or show how the gap differs by age, education, or income level.

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-028",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "20:05",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-028/raw/01d-run-028-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-028/run-028-snapshot.pdf",
+  "transcript_sha256": "f0b42d1487cd69fa1a0c640d170af51f0bc78beb20fe4d7d8e7dfdbb5e76a8f7",
+
+  "notes": "The response summarizes the 1906 disaster as a global example of earthquake resilience, identifying a rupture along the San Andreas Fault as the geological catalyst. It emphasizes that the catastrophic damage was driven by massive fires fueled by ruptured gas lines and wooden buildings. While the narrative describes specific historical impacts like the reshaping of the Marina and Financial Districts and the shift toward modern engineering practices, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing ground shifting, utility failure driving long-duration fires, the implementation of stricter building codes for resilience, and the resulting urban reconstruction and neighborhood transformation. The high density of physical mechanisms results in a classification of low abstraction."
+}

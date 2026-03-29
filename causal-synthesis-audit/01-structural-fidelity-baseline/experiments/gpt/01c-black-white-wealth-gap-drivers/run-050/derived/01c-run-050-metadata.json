@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-050",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "gpt-web-ui",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:58",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-050/raw/01c-run-050-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-050/raw/01c-run-050-snapshot.pdf",
+  "transcript_sha256": "8F542889B028BE5DF3D692E9DB950453B1482D5DB3699AC7A4F109D8B73C4982",
+
+  "notes": "The response identifies 6 primary factors shaping the wealth gap. Under the protocol's strict definitions, the model names 2 specific policies/programs: the 'New Deal' and the 'GI Bill'. No specific institutions (agencies, corporations, or universities) are named. It identifies 3 explicit causal chains: the mechanism by which exclusion from property ownership during slavery created a radically unequal starting point that compounded over generations, the link between higher returns on diversified assets (stocks/businesses) versus home equity and the compounding of inequality, and the self-reinforcing 'snowball effect' where accumulated historical advantages are passed down as intergenerational wealth. The abstraction level remains high, favoring broad policy categories over granular institutional mechanics."
+}

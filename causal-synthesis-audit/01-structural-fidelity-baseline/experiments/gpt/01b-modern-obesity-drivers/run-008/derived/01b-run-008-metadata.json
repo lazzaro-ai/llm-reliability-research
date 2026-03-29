@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-008",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:02",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-008/raw/01b-run-008-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-008/raw/01b-run-008-snapshot.pdf",
+  "transcript_sha256": "B18F4AEFA78231941DD90194C4C7ECEA6B9F380A9A275C7C8823C670CBF07A08",
+
+  "notes": "The response organizes the obesity epidemic into seven thematic categories, framing it as a structural and complex mismatch between environment and biology. While the text references broad systemic influences like corporate influence and industrial food systems, it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 3 explicit causal chains: the rise of industrialized food systems leading to the dominance of calorie-dense ultra-processed foods, rapid urbanization and mechanization leading to reduced everyday energy expenditure, and economic growth in developing regions enabling higher consumption of processed Western-style diets. Due to the total absence of proper nouns, named agencies, or historical policy markers, the response is classified as high abstraction."
+}

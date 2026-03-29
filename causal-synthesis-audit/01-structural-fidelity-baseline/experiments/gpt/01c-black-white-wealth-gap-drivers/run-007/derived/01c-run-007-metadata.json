@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-007",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "gpt-web-ui",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:23",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-007/raw/01c-run-007-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-007/raw/01c-run-007-snapshot.pdf",
+  "transcript_sha256": "87FA4E6B7A74D258E2173BE898EA9A66278F10CC3DFD705954524C2A48A032C5",
+
+  "notes": "The response outlines 8 factors driving the wealth gap. Under the protocol's strict definitions, the model names 2 specific policies/programs: the 'New Deal' and the 'GI Bill'. No specific institutions (agencies, corporations, or universities) are named. It identifies 3 explicit causal chains: the role of historical policies in creating compounding advantages for White households, the mechanism by which lower lifetime earnings translate into lower accumulated wealth over time, and how higher appreciation in financial markets versus wages widens disparities for existing asset holders. Due to the reliance on broad historical eras and the absence of specific institutional names, the abstraction level is classified as high."
+}

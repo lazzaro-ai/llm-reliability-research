@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-008",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:54",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-008/raw/01a-run-008-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-008/raw/01a-run-008-snapshot.pdf",
+  "transcript_sha256": "12C996D4A37C0009E0720277F2E2BA0A750CBAF6CC3F7337CA4E436A64FAB3B3",
+
+  "notes": "The response is structured into numbered sections and sub-points covering historical foundations, industry origins, and cultural dynamics. It references 11 specific institutions: Stanford University, University of California Berkeley, DARPA, Fairchild Semiconductor, Intel, Sequoia Capital, Kleiner Perkins, Apple, Google, Amazon, and NVIDIA. It includes 4 explicit causal chains: academic-industry collaboration helping commercialize research, the spin-off culture from Fairchild spawning a cluster of tech firms, the venture capital model encouraging fast growth through high-risk funding, and geographic clustering creating an ecosystem effect that is difficult to replicate. Under the protocol definitions, one specific policy is named: the historical unenforceability of non-compete clauses in California. Because the output contains many named entities, clear causal chains, and concrete mechanisms, it is classified as low abstraction."
+}

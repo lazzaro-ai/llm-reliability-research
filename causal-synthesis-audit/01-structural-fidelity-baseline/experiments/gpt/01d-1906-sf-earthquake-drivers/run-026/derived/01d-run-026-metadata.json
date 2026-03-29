@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-026",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "20:04",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-026/raw/01d-run-026-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-026/run-026-snapshot.pdf",
+  "transcript_sha256": "41184d2ac903a6f4a0de92b0a0b5eb9397deb3a94dfddc315a273cea5674383e",
+
+  "notes": "The response summarizes the 1906 disaster as a defining event for San Francisco's resilience, identifying the San Andreas Fault as the primary geological driver. It emphasizes the destruction caused by post-quake fires fueled by ruptured gas lines and the influence of soil composition on structural collapse. While the narrative describes specific historical impacts like the shift toward fire-resistant materials (concrete and steel) and the relocation of commercial centers, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing ground shaking, utility failure driving fire spread, the implementation of wider streets and updated building codes for resilience, and the resulting economic transformation and population relocation. The high density of physical mechanisms results in a classification of low abstraction."
+}

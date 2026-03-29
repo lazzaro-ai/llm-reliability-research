@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-046",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:47",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-046/raw/01a-run-046-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-046/raw/01a-run-046-snapshot.pdf",
+  "transcript_sha256": "5453460F1C23B3888E3536B867660B068C0FECD032834213F7E2D33D3E39BFB1",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, the innovation ecosystem, and technological drivers. It references 3 specific institutions: Stanford University, Hewlett-Packard, and Intel. It includes 3 explicit causal chains: Stanford Industrial Park encouraging faculty and students to start companies to bridge academia and industry, a concentration of talent and investors creating a self-reinforcing cycle where more companies attract more talent and funding, and the rise of dedicated venture capital providing early-stage funding critical for tech startups. No specific named policies are identified; references to "federal defense contracts," "immigration policies," and "intellectual property laws" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

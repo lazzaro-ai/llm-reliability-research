@@ -1,0 +1,93 @@
+Summarize the Black–White wealth gap in the United States. What factors shaped the current landscape?
+
+The Black–White wealth gap in the United States refers to the large and persistent difference in net worth (assets minus debts) between Black and White households. It is one of the widest and most durable forms of economic inequality in the country.
+
+📊 Core facts (what the gap looks like)
+White households have multiple times more wealth than Black households—roughly 4–6× higher on average. 
+
+At the median, Black households often hold ~10–15% of the wealth of White households. 
+
+Black families are far more likely to have zero or negative net worth. 
+
+This gap is not just about income—it reflects accumulated advantages over generations.
+
+🧭 How the current landscape was shaped
+1. Historical exclusion from wealth-building opportunities
+A central driver is policy-driven inequality over generations:
+
+Slavery and post–Civil War discrimination left Black Americans with little or no starting wealth.
+
+20th-century policies (e.g., New Deal housing programs, the GI Bill) often excluded Black Americans in practice, limiting access to homeownership and education. 
+
+Practices like redlining and housing discrimination restricted where Black families could live and build equity.
+
+👉 Result: White families accumulated assets (homes, businesses) earlier and passed them down.
+
+2. Intergenerational wealth and compounding
+Wealth builds on itself:
+
+Families with assets can invest, weather shocks, and fund education or home purchases.
+
+White families are much more likely to receive inheritances, though inheritance alone explains a minority of the gap. 
+
+👉 Even small early advantages compound over decades.
+
+3. Income, employment, and education differences
+Research shows lifetime earnings and “human capital” explain most of the gap:
+
+Differences in wages, employment stability, and education account for a large share (up to ~80%). 
+
+Labor market discrimination and occupational segregation reduce earnings and savings potential.
+
+👉 Lower income → less saving → less wealth accumulation.
+
+4. Housing disparities (the biggest wealth channel)
+Homeownership is the main source of wealth for most U.S. families:
+
+~73% of White households own homes vs. ~44% of Black households. 
+
+Black homeowners often have lower home values and higher debt burdens. 
+
+👉 Since housing equity is a key asset, unequal access strongly widens the gap.
+
+5. Differences in financial assets and investment
+Wealth is not just owning a home—it’s also stocks, businesses, and retirement assets:
+
+Stocks account for a much larger share of White wealth (~30%) than Black wealth (~4%). 
+
+Business ownership and capital access are also lower among Black households.
+
+👉 Assets like stocks grow faster than housing, accelerating inequality.
+
+6. Debt burdens and financial vulnerability
+Black households carry higher relative debt burdens, especially student debt. 
+
+They are more likely to lack emergency savings and be vulnerable to shocks (e.g., recessions). 
+
+👉 Less buffer → setbacks erase wealth more easily.
+
+7. Economic shocks that widen gaps
+Major downturns hit Black households harder:
+
+The Great Recession caused far larger wealth losses for Black families than White families. 
+
+The COVID-19 pandemic similarly exposed disparities in savings and job security. 
+
+👉 When wealth is already low, losses are harder to recover from.
+
+🧩 Big picture
+The Black–White wealth gap is best understood as:
+
+A cumulative, multi-generational process shaped by:
+
+Historical exclusion from asset-building
+
+Persistent income and labor market inequality
+
+Unequal access to housing and investments
+
+Compounding advantages for those who already have wealth
+
+It’s not driven by a single factor but by interacting systems over time.
+
+If you want, I can break down which factors matter most quantitatively or how economists model closing the gap.

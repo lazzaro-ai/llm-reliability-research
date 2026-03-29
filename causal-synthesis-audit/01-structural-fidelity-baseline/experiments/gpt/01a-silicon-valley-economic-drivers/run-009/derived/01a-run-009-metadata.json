@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-009",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:55",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-009/raw/01a-run-009-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-009/raw/01a-run-009-snapshot.pdf",
+  "transcript_sha256": "8A68737270B5DDA78AF4BF81AD02A7BED5A42F2F24B5B07B7788E5235B6A8324",
+
+  "notes": "The response is structured into numbered sections covering academic foundations, government investment, and industry revolutions. It references 8 specific institutions: Stanford University, Fairchild Semiconductor, Kleiner Perkins, Sequoia Capital, Apple, Google, Facebook (Meta), and the U.S. government/defense agencies. It includes 4 explicit causal chains: the university-industry pipeline turning academic research into commercial ventures, Cold War contracts helping early semiconductor firms grow, the "Fairchild mafia" spreading expertise through dozens of startups, and a self-reinforcing system where research, capital, and talent maintain an innovation cycle. Under the protocol definitions, one specific policy is named: California’s limits on enforcing non-compete clauses. Because the output contains many named entities, clear causal chains, and concrete mechanisms, it is classified as low abstraction."
+}

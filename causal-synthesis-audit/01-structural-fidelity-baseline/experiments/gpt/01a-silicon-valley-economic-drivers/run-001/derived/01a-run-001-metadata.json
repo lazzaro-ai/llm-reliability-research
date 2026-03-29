@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-001",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "Silicon Valley economic development",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:31",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-001/raw/01a-run-001-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-001/raw/01a-run-001-snapshot.pdf",
+  "transcript_sha256": "CF1161D98C6B772C43BAF97978C0DE4B85DC1A03D74165652BA4A3F3833B9185",
+
+  "notes": "The response is highly structured, organized into numbered sections covering historical, institutional, cultural, and financial drivers. It references 9 specific institutions: Stanford University, U.S. Department of Defense, Fairchild Semiconductor, Intel, Apple, Google, Facebook, Amazon, and NVIDIA. It includes 4 explicit causal chains, such as defense funding anchoring early firms and non-compete bans accelerating knowledge diffusion. Under the updated protocol definitions, one specific policy is named: California’s ban on non-compete clauses. Other mentioned factors like "U.S. immigration policies" or "Cold War–era funding" are categorized as general concepts rather than named policies. Because the output contains many named entities, clear causal chains, and concrete mechanisms, it is classified as low abstraction."
+}

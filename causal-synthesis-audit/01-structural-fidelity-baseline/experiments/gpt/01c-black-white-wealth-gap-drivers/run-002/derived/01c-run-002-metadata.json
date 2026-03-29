@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-002",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:20",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-002/raw/01c-run-002-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-002/raw/01c-run-002-snapshot.pdf",
+  "transcript_sha256": "D5211729592A3CF894BD1E68C8F39630F6F099BEEE95261211ADE27220615A52",
+
+  "notes": "The response identifies 8 key factors shaping the wealth gap landscape. Similar to run-001, the model references historical phenomena such as 'redlining' and 'Civil Rights era' laws, but fails to name a single specific legislative act or formal policy (e.g., the 'Fair Housing Act'). One specific institution is named: the 'Federal Reserve'. The response outlines 2 explicit causal chains: the link between lifetime earnings disparities and reduced capacity for asset accumulation, and the compounding effect of initial disparities reinforced by structural barriers over time. Given the reliance on generalized historical trends and the absence of specific policy names, the abstraction level is classified as high."
+}

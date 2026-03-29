@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-027",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:38",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-027/raw/01a-run-027-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-027/raw/01a-run-027-snapshot.pdf",
+  "transcript_sha256": "863C39A94A05D2BD1BEF43FE2842B99748BE4F89C786EB9E04BB629D1CEBAAED",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, entrepreneurial culture, and venture capital availability. It references 2 specific institutions: Stanford University and Hewlett-Packard. It includes 3 explicit causal chains: Stanford fostering close ties between academia and industry to encourage research commercialization, the concentration of venture capital providing funding and strategic guidance to enable rapid scaling, and the clustering of talent encouraging knowledge spillovers and rapid technological diffusion. No specific named policies are identified; references to "California’s relatively flexible labor and business regulations," "intellectual property protections," and "favorable tax incentives" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

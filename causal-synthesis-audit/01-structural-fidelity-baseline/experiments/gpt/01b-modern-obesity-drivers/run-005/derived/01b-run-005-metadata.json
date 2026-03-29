@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-005",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:01",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-005/raw/01b-run-005-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-005/raw/01b-run-005-snapshot.pdf",
+  "transcript_sha256": "47F1575CE1D26889BFE38D537E973F8D6317AC31FC0A700F996B16E476229F8D",
+
+  "notes": "The response categorizes the obesity epidemic through eight thematic factors, emphasizing a system-wide shift toward an obesogenic environment. While it discusses broad influences like 'food industry influence' and 'built environments,' it identifies 0 specific legislative acts, formal government policies, or named institutions (e.g., specific health agencies or corporations). It identifies 3 explicit causal chains: the engineering of ultra-processed foods leading to calorie density and overconsumption, urban design/car dependence leading to reduced physical activity, and chronic stress/poor sleep altering hormones that regulate appetite. Because the response relies on categorical drivers and theoretical frameworks without naming specific entities or historical policy markers, it is classified as high abstraction."
+}

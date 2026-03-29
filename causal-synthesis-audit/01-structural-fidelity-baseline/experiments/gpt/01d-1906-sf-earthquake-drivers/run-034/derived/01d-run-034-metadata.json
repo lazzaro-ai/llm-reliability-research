@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-034",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:08",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-034/raw/01d-run-034-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-034/run-034-snapshot.pdf",
+  "transcript_sha256": "536ad4be0f9fbb49edfb16db37d7593d02c9cd8866512e78156f080e7d8a6ef2",
+
+  "notes": "The response provides a structured causal explanation beginning with tectonic rupture along the San Andreas Fault leading to widespread structural collapse, followed by infrastructure failure (gas lines) causing prolonged fires. It connects these mechanisms to large-scale destruction and displacement, and further links reconstruction efforts to stricter building codes, modernized infrastructure, and long-term economic and demographic shifts. Geographic and institutional awareness (e.g., Chinatown, Financial District) is present but no formal institutions or policies are named. Multiple explicit causal chains are present across physical, infrastructural, and social domains, resulting in a low abstraction classification."
+}

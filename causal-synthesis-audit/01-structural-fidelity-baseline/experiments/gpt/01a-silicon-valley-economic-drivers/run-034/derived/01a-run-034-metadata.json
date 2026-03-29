@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-034",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:41",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-034/raw/01a-run-034-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-034/raw/01a-run-034-snapshot.pdf",
+  "transcript_sha256": "9AA0F8375364638BB524D191A237D8908AC2716EB4482874A22832D55E92EE72",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, entrepreneurial culture, and venture capital concentration. It references 7 specific institutions: U.S. Department of Defense, Stanford University, Stanford Industrial Park, Hewlett-Packard, Intel, Apple, and Berkeley. It includes 4 explicit causal chains: Stanford’s Industrial Park attracting early firms like Hewlett-Packard , capital availability enabling companies to scale quickly and reinvest profits into new ventures , clusters of expertise in hardware allowing later software waves to dominate , and a "critical mass" effect where companies, investors, and talent mutually reinforced growth. No specific named policies are identified; references to "tax incentives," "research grants," and "intellectual property protections" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-045",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:13",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-045/raw/01d-run-045-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-045/run-045-snapshot.pdf",
+  "transcript_sha256": "1edfa31e0ab4ead12d20f7367ba9c7e35a118ae1ea89defd5d0a8ee2e11f33be",
+
+  "notes": "The response presents a structured causal narrative beginning with rupture along the San Andreas Fault causing violent shaking and structural collapse, followed by infrastructure failure (gas lines and water systems) enabling multi-day fires that caused most destruction. It further links weak construction and landfill conditions to heightened vulnerability, and connects the disaster to long-term outcomes including stricter seismic design, emergency water systems, advances in seismology, and ongoing zoning and construction choices in the Bay Area. No specific policies or formal institutions are named. Multiple explicit causal chains across physical, infrastructural, scientific, and urban-planning domains result in a low abstraction classification due to consistent mechanism-level explanation."
+}

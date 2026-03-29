@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-044",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:46",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-044/raw/01a-run-044-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-044/raw/01a-run-044-snapshot.pdf",
+  "transcript_sha256": "EA9275EA0FF4FE9A521B2D2414822A515741629F4CFC0D34AF6C37E6AEC94393",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, a culture of innovation, and venture capital. It references 2 specific institutions: Stanford University and Fairchild Semiconductor. It includes 3 explicit causal chains: Stanford University fostering collaboration between academia and industry to provide talent and research breakthroughs, the concentration of venture capital allowing companies to take risks that traditional banks avoid, and serial entrepreneurs reinvesting and mentoring new startups to create an ongoing cycle of innovation. No specific named policies are identified; references to "California’s relatively flexible regulatory environment" and "military and government-funded research" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

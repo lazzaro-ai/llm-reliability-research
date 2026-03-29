@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-046",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:13",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-046/raw/01d-run-046-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-046/run-046-snapshot.pdf",
+  "transcript_sha256": "709e3ea785e33da474092dcc5fe79b59aa581074fa83345805ef846a95d7b0aa",
+
+  "notes": "The response presents a multi-stage causal narrative beginning with rupture along the San Andreas Fault causing structural collapse, followed by infrastructure failure (gas lines and water systems) enabling multi-day fires that drove most destruction. It connects these mechanisms to long-term rebuilding decisions, including preserved street grids, stronger building standards, and improved firefighting infrastructure. It further links geological awareness and shoreline modification (rubble fill) to ongoing land-use patterns and liquefaction risk. Named geographic references (e.g., Oakland) are included, but no formal institutions or policies are identified. Multiple explicit causal chains across physical, infrastructural, and geographic domains result in a low abstraction classification due to consistent mechanism-level explanation."
+}

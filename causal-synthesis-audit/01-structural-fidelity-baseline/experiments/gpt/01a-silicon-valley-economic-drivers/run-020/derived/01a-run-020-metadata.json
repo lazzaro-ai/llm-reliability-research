@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-020",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:25",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-020/raw/01a-run-020-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-020/raw/01a-run-020-snapshot.pdf",
+  "transcript_sha256": "A1D7FF7E7A3BE15105A361ABA4C08CA4915F16E483DD89E966CD0E8A6AA1A1B3",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, entrepreneurial culture, and the venture capital ecosystem. It references 4 specific institutions: Stanford University, Apple Inc., Intel Corporation, and Google LLC. It includes 3 explicit causal chains: Frederick Terman encouraging students to start local companies to lay the groundwork for a startup ecosystem, dense networks of professionals facilitating knowledge sharing and mentorship, and the concentration of specialized industry clusters encouraging both collaboration and competition. No specific named policies are identified; references to "military and government investment," "flexible legal frameworks," and "intellectual property protections" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

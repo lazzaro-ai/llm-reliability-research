@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01e-run-012",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the Apollo 11 Moon Landing",
+    "domain_type": "technical / geopolitical success control",
+    "substrate": "space exploration, aerospace engineering, and Cold War technological competition",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01e-apollo-11-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-26",
+    "experiment_time_local": "22:48",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01e-apollo-11-drivers/run-012/raw/01e-run-012-transcript.txt",
+    "transcript_readable": "experiments/gpt/01e-apollo-11-drivers/run-012/raw/01e-run-012-snapshot.pdf",
+    "transcript_sha256": "EA24A7A83A335E89093DDFEC69F312E6FF69DB93D3A910D9B6AD48AA357CA9E0",
+
+    "notes": "The response maintains the standard Apollo 11 scaffold, identifying core actors (NASA, Armstrong, Aldrin, Collins) and mission components (lunar surface exploration, experiments, sample return). It identifies 5 causal domains: technological advancements, geopolitical/cultural impact, scientific knowledge, economic/industrial influence, and long-term space policy. It names 4 proper nouns (NASA, Neil Armstrong, Buzz Aldrin, Michael Collins) and includes 4 explicit causal chains linking Cold War competition and technological development to scientific discovery, industrial growth, and modern space exploration frameworks. No specific legislative acts are named, but institutional attribution remains intact. The narrative is classified as low abstraction due to consistent entity anchoring and multi-domain causal structure."
+}

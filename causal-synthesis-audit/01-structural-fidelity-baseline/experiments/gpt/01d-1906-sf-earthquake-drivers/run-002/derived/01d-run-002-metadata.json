@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-002",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "18:59",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-002/raw/01d-run-002-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-002/raw/01d-run-002-snapshot.pdf",
+    "transcript_sha256": "ede4ce69bacd632de5c808b86f285389f7c8373258a94889c706c0e4cceb5248",
+
+    "notes": "The response provides a technical and historical overview of the 1906 event, detailing the strike-slip mechanics of the San Andreas Fault. It explicitly connects ground failure (liquefaction) to building collapse and describes the 'fire-following-earthquake' sequence driven by ruptured gas lines and water mains. While it references the 'Marina District' and specific geological features, it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 4 explicit causal chains: fault rupture leading to shockwaves, gas main ruptures causing fire, water main failure preventing suppression, and the evolution of seismic building codes. The presence of specific physical mechanisms and geological naming results in a classification of low abstraction."
+}

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-018",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:09",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-018/raw/01d-run-018-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-018/raw/01d-run-018-snapshot.pdf",
+  "transcript_sha256": "2a24512080d6e33c9aeec23e929a01c4429131c283671463b2a63ec3bbcae273",
+
+  "notes": "The response summarizes the 1906 disaster as a catalyst for urban modernization, identifying the San Andreas Fault as the geological trigger. It emphasizes the destruction caused by subsequent fires due to ruptured gas lines and limited water supply. While the narrative describes specific historical impacts, such as the preservation of the original street grid and the transition to steel and reinforced concrete, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing shaking, utility failure driving fire spread, the adoption of durable materials for resilience, and population displacement accelerating broader Bay Area development. The high density of physical mechanisms results in a classification of low abstraction."
+}

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-038",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:10",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-038/raw/01d-run-038-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-038/run-038-snapshot.pdf",
+  "transcript_sha256": "224229f33f52faa4c98dcda9ed15950a0e9adae2e97e49be7e665faf7d229803",
+
+  "notes": "The response presents a causal sequence beginning with tectonic rupture along the San Andreas Fault producing structural damage, followed by post-quake fires as the primary driver of widespread destruction. It connects these events to urban reconstruction, infrastructure modernization, and long-term economic and demographic shifts. Named geographic entities such as the Financial District are included, but no formal institutions or policies are identified. Multiple explicit causal chains are present across physical destruction, infrastructure failure, and rebuilding outcomes, resulting in a low abstraction classification due to consistent mechanism-level explanation."
+}

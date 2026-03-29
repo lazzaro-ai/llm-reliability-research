@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-047",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:47",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-047/raw/01a-run-047-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-047/raw/01a-run-047-snapshot.pdf",
+  "transcript_sha256": "79A6F0A4CC72534F8B2D28279E8D9D69BBF8F30C4263EFA967B033257B9A8CD1",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, the venture capital ecosystem, and talent concentration. It references 4 specific institutions: Hewlett-Packard, Fairchild Semiconductor, Stanford University, and UC Berkeley. It includes 3 explicit causal chains: Stanford University fostering entrepreneurship to encourage faculty and students to start companies locally, the availability of venture capital allowing the rapid scaling of ideas into large companies, and the geographic clustering of firms allowing the sharing of suppliers, labor, and information. No specific named policies are identified; references to "defense contracts," "tax incentives," and "intellectual property protections" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

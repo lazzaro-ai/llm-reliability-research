@@ -1,0 +1,39 @@
+{
+	"study_id": "causal-synthesis-audit",
+	"experiment_id": "01b-run-047",
+	"hypothesis_tested": "Structural Fidelity Baseline",
+
+	"model_name": "OpenAI GPT",
+	"model_variant": "ChatGPT Web UI",
+	"model_interface": "Web UI (ChatGPT)",
+	"session_fresh": true,
+
+	"domain": "the modern obesity epidemic",
+	"domain_type": "public health / metabolic health",
+	"substrate": "drivers of rising obesity rates in the United States",
+
+	"prompt_ladder_version": "baseline-single-response",
+	"variant": "01b-modern-obesity-drivers",
+	"summit_reached": false,
+
+	"correction_occurred": false,
+	"correction_turn": null,
+	"retraction_latency_turns": null,
+	"correction_type": null,
+
+	"reversal_probe_executed": false,
+	"reversal_occurred": false,
+	"correction_stability": null,
+
+	"retrieval_triggered": false,
+
+	"experiment_date": "2026-03-22",
+	"experiment_time_local": "14:34",
+	"timezone": "PST",
+
+	"transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-047/raw/01b-run-047-transcript.txt",
+	"transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-047/raw/01b-run-047-snapshot.pdf",
+	"transcript_sha256": "05E5CBA4C203DE02E97C91838AA5BBE6F6D307AAB96BB16B683F5A3AB865F9FC",
+
+	"notes": "The response identifies eight factors shaping the modern obesity epidemic, characterizing it as a system-level problem driven by industrialized food and economic development. While it mentions that food industry practices and weak marketing regulations contribute to the landscape, it identifies 0 specific legislative acts, named government policies, or specific institutions. It identifies 4 explicit causal chains: the engineering of ultra-processed foods for overconsumption leading to increased calorie intake, the nutrition transition where economic development replaces traditional diets with calorie-dense processed foods, urban design that discourages physical activity, and generational drift where cumulative environmental changes make subsequent generations heavier. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

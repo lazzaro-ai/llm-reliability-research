@@ -1,0 +1,94 @@
+Summarize the Black–White wealth gap in the United States. What factors shaped the current landscape?
+
+The Black–White wealth gap in the United States refers to the large and persistent difference in average and median net worth between Black and White households. It is one of the most durable forms of economic inequality in the country and has changed relatively slowly over time, even as income gaps have narrowed somewhat.
+
+How large is the gap?
+Median White household wealth has been many times higher than Black household wealth for decades (often estimated at roughly 5–10× depending on the year and dataset). 
+
+For example, one Federal Reserve-based snapshot (2016) showed median wealth of about $171,000 for White families vs. $17,600 for Black families. 
+
+A significant share of Black households have zero or negative net worth, reflecting limited asset accumulation and higher vulnerability to financial shocks. 
+
+Key factors shaping the current wealth gap
+1. Historical exclusion and structural discrimination
+The gap is deeply rooted in historical systems such as slavery, Jim Crow laws, and segregation, which prevented wealth accumulation for generations.
+
+20th-century policies (e.g., housing and lending practices) reinforced inequality rather than correcting it.
+
+Discriminatory systems limited access to jobs, credit, education, and property ownership—key drivers of wealth.
+
+2. Homeownership disparities (a central driver)
+Home equity is the largest source of wealth for most U.S. households.
+
+Black households have historically faced barriers to homeownership through:
+
+Redlining
+
+Discriminatory lending and subprime targeting
+
+Segregated housing markets
+
+As a result, Black homeownership rates and home equity remain significantly lower than White households. 
+
+3. Differences in asset composition
+Wealth is not just about income—it depends heavily on what assets people own.
+
+White households are more likely to hold:
+
+Stocks and mutual funds
+
+Retirement accounts (401(k)s, IRAs)
+
+Business equity
+
+These assets tend to appreciate faster than housing, especially over long periods, amplifying disparities. 
+
+4. Intergenerational wealth and inheritance
+Wealth is transmitted across generations through inheritances, gifts, and financial support.
+
+White families are significantly more likely to receive and pass down substantial inheritances.
+
+Even modest differences in inherited wealth compound over time, widening the gap across generations. 
+
+5. Labor market inequality
+Persistent differences in wages, employment stability, and occupational access affect the ability to save and invest.
+
+Discrimination in hiring and promotion, as well as historical occupational segregation, has contributed to long-term income differences that feed into wealth disparities. 
+
+6. Differences in access to financial systems and credit
+Black households have historically faced:
+
+Lower access to credit on favorable terms
+
+Higher borrowing costs
+
+Greater exposure to predatory lending
+
+These constraints reduce opportunities to invest, buy homes, or start businesses.
+
+7. Macroeconomic shocks and unequal recovery
+Events like the 2008 financial crisis disproportionately affected Black wealth due to higher exposure to subprime mortgages.
+
+Wealth losses were larger and recovery slower compared to White households, widening the gap further. 
+
+8. Differences in returns on assets
+Over time, assets more commonly held by White households (especially stocks and business equity) have tended to appreciate faster than those more commonly held by Black households.
+
+This creates compounding effects where existing wealth disparities grow even if savings rates are similar. 
+
+Big-picture summary
+The Black–White wealth gap is not driven by a single cause but by cumulative and reinforcing factors over generations, including:
+
+Historical exclusion from wealth-building opportunities
+
+Persistent discrimination in housing, labor, and finance
+
+Unequal access to high-return assets
+
+Differences in inheritance and intergenerational transfers
+
+Structural differences in income and employment stability
+
+Together, these forces have produced a gap that is self-reinforcing across generations, meaning that disparities in one generation influence opportunities and outcomes in the next.
+
+If you want, I can break down how economists measure the gap (e.g., median vs. mean wealth, or cohort comparisons) or how it has changed over time since the 1960s.

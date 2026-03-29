@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-015",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:06",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-015/raw/01b-run-015-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-015/raw/01b-run-015-snapshot.pdf",
+  "transcript_sha256": "3E5C845193726A13477A79CEB27023BAA3D978558B56C865F15ADF9B4209117A",
+
+  "notes": "The response organizes the obesity epidemic into an eight-part synthesis, emphasizing the role of ultra-processed foods (UPFs) as a defining feature. While it discusses systemic influences like agricultural subsidies and food industry profit models, it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 4 explicit causal chains: the engineering of UPFs to override satiety signals leading to overconsumption, industrial agricultural shifts leading to low-cost calories, sedentary work and car-dependent urban design reducing daily movement, and sleep deprivation leading to increased hunger hormones. Due to the continued reliance on categorical drivers and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

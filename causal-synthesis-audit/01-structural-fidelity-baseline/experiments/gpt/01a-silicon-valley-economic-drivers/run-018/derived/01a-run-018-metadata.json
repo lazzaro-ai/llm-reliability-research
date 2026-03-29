@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-018",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:24",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-018/raw/01a-run-018-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-018/raw/01a-run-018-snapshot.pdf",
+  "transcript_sha256": "4CC2659403392EEBF22F2D3E04542CEA1F435EAB46787E66573AA937D0BF84EC",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, the culture of innovation, and access to capital. It references 3 specific institutions: Hewlett-Packard, Fairchild Semiconductor, and Stanford University. It includes 4 explicit causal chains: Frederick Terman linking academia and industry to foster an early culture of innovation, specialized venture capital providing early-stage funding to allow rapid scaling, professionals frequently moving between firms to spread ideas and expertise, and a self-reinforcing cycle where established reputation attracts more companies and talent. No specific named policies are identified; references to "intellectual property protection" and "patent laws" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

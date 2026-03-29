@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-019",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:25",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-019/raw/01a-run-019-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-019/raw/01a-run-019-snapshot.pdf",
+  "transcript_sha256": "3732B7C1E38872439EF72F56D7028996A7BE162E3774C88A839A4FFFBAAC4253",
+
+  "notes": "The response is structured into thematic sections covering historical roots, access to capital, and technological clusters. It references 4 specific institutions: Stanford Research Institute, Stanford University, Intel, and Apple. It includes 3 explicit causal chains: Stanford University and the Research Institute encouraging commercialization to seed startups, early investors providing strategic guidance and networks to allow rapid scaling, and technological clusters creating synergy between companies and talent pools. No specific named policies are identified; references to "immigration policies" and "California’s regulatory environment" are treated as general categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

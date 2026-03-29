@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-017",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:08",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-017/raw/01d-run-017-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-017/raw/01d-run-017-snapshot.pdf",
+  "transcript_sha256": "d67e3fc2cfbea3fe6399086477a7c858c24365e5e696dc86bab10bba754c32b3",
+
+  "notes": "The response identifies the San Andreas Fault as the geological trigger and emphasizes that the post-quake fires caused more profound reshaping than the seismic event itself. It details how the 'blank slate' created by the destruction allowed for widened streets and the transition to steel-frame construction in the downtown core. While the narrative accurately describes historical impacts and the preservation of cultural identity in Chinatown, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing shaking, water main failure preventing fire suppression, the adoption of steel frames for structural resilience, and the resulting population displacement accelerating development in the East Bay. The high density of physical mechanisms results in a classification of low abstraction."
+}

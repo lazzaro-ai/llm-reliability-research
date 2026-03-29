@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-028",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:38",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-028/raw/01a-run-028-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-028/raw/01a-run-028-snapshot.pdf",
+  "transcript_sha256": "E0F81862857B190CE77ED3A611999F9EE36C12A34A82E6D5240E655E8CE68774",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, a culture of innovation, and venture capital. It references 10 specific institutions: Department of Defense, Stanford University, Stanford Industrial Park (Stanford Research Park), Hewlett-Packard, Intel, Apple, Google, Facebook, UC Berkeley, and Y Combinator (including Plug and Play Tech Center). It includes 4 explicit causal chains: Stanford Industrial Park allowing companies to locate near research to foster knowledge transfer, venture capital providing risk-tolerant financing critical for startups to scale, top universities providing a continuous flow of skilled talent to the ecosystem, and a "success breeds success" loop where top companies attract the talent and capital that reinforce the region's dominance. No specific named policies are identified; references to "intellectual property laws" and "business regulations" are treated as general concepts. Because the output contains many named entities and concrete mechanisms, it is classified as low abstraction."
+}

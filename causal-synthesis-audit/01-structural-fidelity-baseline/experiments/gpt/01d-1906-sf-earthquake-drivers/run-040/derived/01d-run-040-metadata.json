@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-040",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:10",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-040/raw/01d-run-040-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-040/run-040-snapshot.pdf",
+  "transcript_sha256": "82e7a30a91f54f1131caff9f48f72603108e111d8db735943754f2a21ed491d4",
+
+  "notes": "The response presents a layered causal narrative beginning with rupture along the San Andreas Fault producing structural collapse, followed by infrastructure failure (gas lines and water systems) enabling multi-day fires that drove the majority of destruction. It connects these mechanisms to long-term urban redesign, seismic engineering advances, and regional population redistribution across the Bay Area. Named geographic entities (e.g., Oakland, Berkeley, Bay Area) are included, but no formal institutions or policies are identified. Multiple explicit causal chains are present across physical, infrastructural, and regional development domains, resulting in a low abstraction classification due to consistent mechanism-level explanation."
+}

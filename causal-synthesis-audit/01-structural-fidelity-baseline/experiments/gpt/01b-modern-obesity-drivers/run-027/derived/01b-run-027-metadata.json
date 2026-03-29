@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-027",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:22",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-027/raw/01b-run-027-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-027/raw/01b-run-027-snapshot.pdf",
+  "transcript_sha256": "6075C02CA0D7E23E31EF2E4F72095980C0778314FAA74311B8525DC5C95FC4DE",
+
+  "notes": "The response outlines the obesity epidemic as a convergence of eight modern forces, characterizing it as a failure of policy to keep pace with environmental change. While it mentions agricultural policies that subsidize calorie-dense foods and weak regulation of marketing, it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 4 explicit causal chains: the transformation of food production leading to increased availability of cheap ultra-processed foods that make overconsumption unconscious, modern sedentary work and transportation reducing physical activity, economic development leading to diets shifting toward fat and sugar, and chronic stress or poor sleep driving overeating through appetite increase. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

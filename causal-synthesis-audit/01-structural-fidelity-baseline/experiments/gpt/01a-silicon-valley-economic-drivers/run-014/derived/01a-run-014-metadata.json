@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-014",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:02",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-014/raw/01a-run-014-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-014/raw/01a-run-014-snapshot.pdf",
+  "transcript_sha256": "183DB14CB347FBAF1AE96071D01CD03E4CA85FB0446469D20135666710081CB6",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, a culture of innovation, and the venture capital ecosystem. It references 6 specific institutions: the Department of Defense, Stanford University, Hewlett-Packard, Intel, Google, Apple, Facebook, and UC Berkeley. It includes 3 explicit causal chains: Stanford University acting as a research hub to foster technology transfer and startups, early pioneers creating industry clusters that attracted talent and suppliers, and the concentration of firms and talent creating a self-reinforcing "critical mass" that acts as a magnet for more funding. No specific named policies are identified; references to "federal funding," "business-friendly policies," and "immigration" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

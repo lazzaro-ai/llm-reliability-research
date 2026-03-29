@@ -1,0 +1,37 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-008",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+
+    "summit_reached": false,
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:05",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-008/raw/01d-run-008-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-008/raw/01d-run-008-snapshot.pdf",
+    "transcript_sha256": "af6d8702c043f98eacd67176a7acdfd8f624a2591534f07994095cc00c4e310c",
+
+    "notes": "The response provides an extensive historical and geological analysis of the 1906 event, specifically detailing the strike-slip motion of the San Andreas Fault and the resulting ground failure via liquefaction of artificial fill. It highlights the 'Ham and Eggs Fire' and the logistical failure of fire suppression due to ruptured water mains as primary drivers of the city's destruction. While the narrative is rich in specific location names and historical figures like 'Daniel Burnham,' it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing high-magnitude shockwaves, soil liquefaction leading to foundation failure, gas main ruptures triggering urban fires, and the lack of hydrostatic pressure rendering the city defenseless. The high density of physical mechanisms and historical entities results in a classification of low abstraction."
+}

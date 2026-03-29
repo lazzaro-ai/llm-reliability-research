@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-049",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:15",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-049/raw/01d-run-049-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-049/run-049-snapshot.pdf",
+  "transcript_sha256": "a4cabe41dee993ab341a2a99a350a497f1e4dde91ff913a28f2f5f703170f876",
+
+  "notes": "The response presents a detailed causal chain beginning with rupture along the San Andreas Fault producing structural collapse and infrastructure failure (water mains), followed by uncontrolled fires that caused the majority of destruction. It links these mechanisms to long-term outcomes including improved building codes, fire-resistant infrastructure, emergency water systems, and urban rebuilding decisions. It further connects displacement to regional population redistribution across the Bay Area (including Oakland) and to broader shifts in seismic awareness influencing policy and planning. No specific policies or formal institutions are named. Multiple explicit causal chains across physical, infrastructural, and regional domains result in a low abstraction classification due to consistent mechanism-level explanation."
+}

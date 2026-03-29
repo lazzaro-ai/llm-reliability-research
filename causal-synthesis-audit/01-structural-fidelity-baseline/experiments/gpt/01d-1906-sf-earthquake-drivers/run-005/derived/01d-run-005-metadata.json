@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-005",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:02",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-005/raw/01d-run-005-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-005/raw/01d-run-005-snapshot.pdf",
+    "transcript_sha256": "c0e952435816df8387f24e6264d0bf1e8b255a36826c25befc61ffbd6027a01c",
+
+    "notes": "The response provides a technical and historical overview of the 1906 earthquake, specifically identifying the 'strike-slip' motion of the San Andreas Fault as the geological catalyst. It highlights the 'Ham and Eggs Fire' and the logistical failure of fire suppression due to ruptured water mains as critical drivers of the eventual destruction. While it mentions the 'Burnham Plan' and specific urban areas, it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing ground acceleration, the failure of unreinforced masonry leading to structural collapse, gas main ruptures triggering urban firestorms, and the lack of pressurized water rendering the city defenseless. The presence of these specific physical mechanisms results in a classification of low abstraction."
+}

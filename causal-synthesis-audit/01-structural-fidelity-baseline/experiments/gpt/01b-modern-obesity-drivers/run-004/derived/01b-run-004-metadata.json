@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-004",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:00",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-004/raw/01b-run-004-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-004/raw/01b-run-004-snapshot.pdf",
+  "transcript_sha256": "2EE6F6910F2B755B14121FAA3FC5191CCE9F60C92B8BC07C10E2C699972C40BB",
+
+  "notes": "The response categorizes the obesity epidemic through seven thematic factors, framing it as a system-level mismatch between biology and environment. While it discusses broad influences like 'food deserts' and 'Western-style eating patterns,' it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 3 explicit causal chains: the engineering of ultra-processed foods leading to passive calorie overconsumption, modernization/urbanization leading to a shift toward Western-style diets, and poor sleep leading to metabolic and hunger hormonal changes. Due to the reliance on categorical drivers and theoretical frameworks without specific named entities or historical policy markers, the response is classified as high abstraction."
+}

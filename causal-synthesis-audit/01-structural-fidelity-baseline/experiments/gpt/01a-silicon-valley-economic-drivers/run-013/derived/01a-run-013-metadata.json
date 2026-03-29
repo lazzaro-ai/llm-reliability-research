@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-013",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:01",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-013/raw/01a-run-013-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-013/raw/01a-run-013-snapshot.pdf",
+  "transcript_sha256": "053BE2B93181C6657AD0C345E03C0F1BD9A8D2A6A0DB3CA6ABC6E8837F0844F6",
+
+  "notes": "The response is structured into thematic sections covering historical foundations, capital access, and entrepreneurial culture. It references 7 specific institutions: Hewlett-Packard, Stanford University, Sequoia Capital, Kleiner Perkins, Apple, Google, and Facebook. It includes 3 explicit causal chains: affluent engineers reinvesting in new startups to create a cycle of mentorship and funding, startups clustering geographically to allow talent and resources to circulate efficiently, and companies leveraging earlier hardware innovations to dominate software and digital platforms. No specific named policies are identified; references to "favorable regulations," "California policies," and "federal grants" (DARPA, NASA) are treated as general concepts or agencies rather than specific legislative acts. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

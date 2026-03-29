@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-033",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "citation_leak_mitigated": true,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:25",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-033/raw/01b-run-033-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-033/raw/01b-run-033-snapshot.pdf",
+  "transcript_sha256": "5F488FAAA170909BA1D2749A02072843007D9CF8D8E671555217134F5F4D8E22",
+
+  "notes": "The response characterizes the obesity epidemic as a convergence of biological, economic, and environmental changes, specifically highlighting the mismatch between evolutionary biology and modern food abundance. While it discusses systemic drivers such as industrialization and the nutrition transition, it identifies 0 specific legislative acts, formal government policies, or named institutions. It identifies 4 explicit causal chains: the engineering of ultra-processed foods to override satiety signals leading to increased calorie intake, sedentary work and car-dependent transport reducing daily calorie burn, modern life inducing chronic stress or poor sleep that affects hunger hormones like ghrelin and leptin, and economic conditions in food deserts leading to a reliance on cheaper calorie-dense options. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

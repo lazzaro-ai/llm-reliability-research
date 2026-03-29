@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-043",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:45",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-043/raw/01a-run-043-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-043/raw/01a-run-043-snapshot.pdf",
+  "transcript_sha256": "0DB8065E88027018AE961154A7044E119DDECD26DC0256FB18C788A8EB4A5C1C",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, proximity to universities, and the venture capital ecosystem. It references 4 specific institutions: Fairchild Semiconductor, Intel, Stanford University, and UC Berkeley. It includes 3 explicit causal chains: Stanford encouraging research commercialization and providing land leases to support entrepreneurship, early-stage venture capital allowing startups to take high-risk bets to fuel rapid growth, and physical proximity allowing firms to share suppliers and labor to create a self-reinforcing cycle of innovation. No specific named policies are identified; references to "intellectual property protection," "defense contracts," and "U.S. government investment" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

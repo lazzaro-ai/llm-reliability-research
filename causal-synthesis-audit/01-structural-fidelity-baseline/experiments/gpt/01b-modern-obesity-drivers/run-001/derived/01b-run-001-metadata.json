@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-001",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "13:58",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-001/raw/01b-run-001-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-001/raw/01b-run-001-snapshot.pdf",
+  "transcript_sha256": "9007A55D4723E084986B44BD0ADB9A8722A83C67E659209736E64A2B10089BF2",
+
+  "notes": "The response provides a thematic overview of the obesity epidemic across seven categorized factors. While it identifies broad drivers such as 'ultra-processed foods' and 'car-dependent cities,' it names 0 specific legislative acts, formal policies, or named institutions (agencies, corporations, or universities). It identifies 3 explicit causal chains: the transformation of food production leading to increased energy intake as the dominant driver, sedentary built environments reducing everyday physical activity, and industrialization leading to the 'Western-style' nutrition transition. Due to the high level of categorical labeling without specific named entities or historical policy markers, the response is classified as high abstraction."
+}

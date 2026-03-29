@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-023",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:11",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-023/raw/01d-run-023-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-023/run-023-snapshot.pdf",
+  "transcript_sha256": "dfa2d0c832634cff693882c3b6984811ba21617a964de8f4ef12c2f5a3f32585",
+
+  "notes": "The response summarizes the 1906 earthquake as a catalyst for infrastructure resilience, identifying the 300-mile rupture of the San Andreas Fault as the geological driver. It highlights the destruction caused by post-quake fires and the subsequent failure of water supply systems. While the narrative details specific historical impacts like the retention of the original street grid and the acceleration of development in Oakland, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing structural collapse, water main failure preventing fire suppression, the transition to steel and concrete construction for resilience, and the resulting population migration driving regional Bay Area growth. The high density of physical mechanisms results in a classification of low abstraction."
+}

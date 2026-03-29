@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-022",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:10",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-022/raw/01d-run-022-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-022/run-022-snapshot.pdf",
+  "transcript_sha256": "175afc40fad40b2f22ef37675d6716501949a6b7eaa3c631a1b03170d9709300",
+
+  "notes": "The response summarizes the 1906 earthquake as a critical reset for San Francisco, identifying the rupture of the San Andreas Fault as the geological catalyst. It highlights the destruction caused by subsequent firestorms and the logistical failure of the city's water infrastructure. While the narrative details specific historical impacts like the preservation of the pre-1906 street grid and the residential shift toward the western districts, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing structural collapse, water main failure driving fire spread, the implementation of flexible quake-resistant structures for resilience, and the resulting demographic shift toward less-damaged western areas. The high density of physical mechanisms results in a classification of low abstraction."
+}

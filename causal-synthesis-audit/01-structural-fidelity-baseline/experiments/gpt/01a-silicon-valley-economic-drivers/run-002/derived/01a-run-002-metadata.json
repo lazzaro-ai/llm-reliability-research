@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-002",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:32",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-002/raw/01a-run-002-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-002/raw/01a-run-002-snapshot.pdf",
+  "transcript_sha256": "BC586C8AFC0CD353874FC5B62CFA17B7995BF359F7FDC4EA19A3893852470752",
+
+  "notes": "The response is structured into numbered sections and thematic sub-points covering historical, institutional, and cultural drivers. It references 8 specific institutions: Stanford University, U.S. Department of Defense, Hewlett-Packard, Fairchild Semiconductor, Intel, Kleiner Perkins, Sequoia Capital, and Google. It includes 3 explicit causal chains: defense spending anchoring electronics research, the "spin-off culture" from Fairchild leading to Intel, and the venture capital model allowing startups to scale without immediate profits. No specific named policies (e.g., legislative acts or specific legal bans) are identified in this transcript; mentions of "U.S. defense spending" and "immigration" remain general concepts. Because the output contains many named entities, clear causal chains, and concrete mechanisms, it is classified as low abstraction."
+}

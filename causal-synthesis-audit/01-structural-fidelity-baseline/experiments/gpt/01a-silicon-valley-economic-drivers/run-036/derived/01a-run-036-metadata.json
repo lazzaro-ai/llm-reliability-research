@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-036",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:42",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-036/raw/01a-run-036-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-036/raw/01a-run-036-snapshot.pdf",
+  "transcript_sha256": "F93023F03C17D00CE34DFE890E8F4C758B8ECB487770763D0DD0D855361A1D64",
+
+  "notes": "The response is structured into thematic sections covering historical roots, research institutions, and the venture capital ecosystem. It references 5 specific institutions: Stanford University, UC Berkeley, Apple, Google, and Intel. It includes 4 explicit causal chains: university-led tech transfer programs encouraging faculty and students to start companies, access to capital allowing innovative ideas to scale rapidly without immediate profitability, successful startups creating serial entrepreneurs who reinvest in new ventures, and high-profile exits through IPOs or acquisitions funding the next generation of startups. No specific named policies are identified; references to "intellectual property laws," "tax incentives," and "local government policies" are treated as general categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

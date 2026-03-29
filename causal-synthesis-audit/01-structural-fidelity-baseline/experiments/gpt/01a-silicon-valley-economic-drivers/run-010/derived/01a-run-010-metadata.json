@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-010",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:56",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-010/raw/01a-run-010-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-010/raw/01a-run-010-snapshot.pdf",
+  "transcript_sha256": "9F815D88ECE399643D5408FC451596B5E4CACF2ECE292E5C966CA2270234723B",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, the semiconductor legacy, and risk engines. It references 8 specific institutions: Stanford University, UC Berkeley, Hewlett-Packard, Fairchild Semiconductor, Intel, Google, Apple, and Meta. It includes 4 explicit causal chains: Frederick Terman pushing students to start local companies instead of leaving, the "Fairchild diaspora" spreading knowledge through job-hopping, the venture capital model creating a system where capital chases innovation rather than proven businesses, and positive feedback loops where success attracts the talent and capital that lead to more success. Under the protocol, one specific policy is named: the unenforceability of non-compete clauses in California. Because the output contains named entities and concrete mechanisms, it is classified as low abstraction."
+}

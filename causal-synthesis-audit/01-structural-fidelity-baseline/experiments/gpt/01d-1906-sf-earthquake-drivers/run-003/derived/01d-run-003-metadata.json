@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-003",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:01",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-003/raw/01d-run-003-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-003/raw/01d-run-003-snapshot.pdf",
+    "transcript_sha256": "0eab6463b17e7df120af7bf7e82dadd0ed160389edb00d0b2f107e58d5a9c586",
+
+    "notes": "The response details the 1906 earthquake through a multi-faceted historical lens, emphasizing the geological trigger of the San Andreas Fault and the logistical failure of fire suppression due to broken water mains. It highlights the role of 'unreinforced masonry' in structural failure and the 'Ham and Eggs Fire' as a primary driver of the urban footprint's destruction. While the narrative is descriptive of historical figures and locations, it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 3 explicit causal chains: tectonic rupture causing seismic shockwaves, structural material choice leading to collapse, and utility failure driving the secondary fire catastrophe. The high density of physical mechanisms and historical entities ensures a classification of low abstraction."
+}

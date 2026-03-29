@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01c-run-027",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "gpt-web-ui",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the Black–White wealth gap in the United States",
+  "domain_type": "socio-economic / racial inequality",
+  "substrate": "historical and contemporary drivers of racial wealth disparity",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01c-black-white-wealth-gap-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "09:46",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-027/raw/01c-run-027-transcript.txt",
+  "transcript_readable": "experiments/gpt/01c-black-white-wealth-gap-drivers/run-027/raw/01c-run-027-snapshot.pdf",
+  "transcript_sha256": "21BCF168414543B0FDDE268419C30E606A10116D7E72EA7B76DCDCB30BD6DC08",
+
+  "notes": "The response identifies 7 key factors shaping the wealth gap. Under the protocol's strict definitions, the model names 1 specific policy/program: 'Jim Crow laws'. No specific institutions (agencies, corporations, or universities) are named. It identifies 3 explicit causal chains: the mechanism by which exclusion from wealth-building policies allowed wealth to accumulate in White families across generations while being blocked for Black families, the link between lower average lifetime earnings and a reduced ability to save or invest, and how the disproportionate growth of capital gains from financial assets reinforces the gap for asset holders. The abstraction level remains high, omitting specific entities like the FHA or HOLC."
+}

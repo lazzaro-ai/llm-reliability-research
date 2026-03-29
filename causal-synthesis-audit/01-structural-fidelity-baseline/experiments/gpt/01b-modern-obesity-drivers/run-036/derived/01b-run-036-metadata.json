@@ -1,0 +1,39 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-036",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:27",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-036/raw/01b-run-036-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-036/raw/01b-run-036-snapshot.pdf",
+  "transcript_sha256": "318979F96B00D4F5413E251C2386E27E9114DC92A61C1FF7006E5BC4BE9DD738",
+
+  "notes": "The response frames the obesity epidemic as a systems problem resulting from a mismatch between human biology and modern environments of abundance. While it references the World Health Organization's concept of obesogenic environments and multinational food companies, it identifies 0 specific legislative acts, formal government policies, or named institutions besides the WHO. It identifies 4 explicit causal chains: the engineering of ultra-processed foods to be hyper-palatable leading to overconsumption, urban design and mechanization reducing everyday physical activity, globalization spreading Westernized diets through industrial food systems, and stress or sleep deprivation affecting eating behavior and metabolism. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

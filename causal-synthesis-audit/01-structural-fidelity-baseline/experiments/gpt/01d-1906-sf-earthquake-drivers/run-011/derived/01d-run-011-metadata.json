@@ -1,0 +1,37 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-011",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+
+    "summit_reached": false,
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:06",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-011/raw/01d-run-011-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-011/raw/01d-run-011-snapshot.pdf",
+    "transcript_sha256": "700d2e4613263d2907bf2e19ac2bcd02ece02ed4a5b8490dc2c18d370af1c40b",
+
+    "notes": "The response provides a structured historical summary of the 1906 earthquake, focusing on the mechanics of the San Andreas Fault and the subsequent fire. While it describes the 'Ham and Eggs Fire' and historical reconstruction efforts, it names 0 specific legislative acts or formal policies and 0 specific institutional bodies. It identifies 3 explicit causal chains: the tectonic rupture leading to ground shaking, the rupture of water mains causing fire uncontrollability, and the shift in urban planning focus toward seismic resilience. The presence of specific historical proper nouns and clear physical mechanisms results in a classification of low abstraction."
+}

@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-050",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:49",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-050/raw/01a-run-050-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-050/raw/01a-run-050-snapshot.pdf",
+  "transcript_sha256": "1488859FC6A5135676285D4DF1AEFE22872B210618168DAFB6A2023A14FCB2BF",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, entrepreneurial culture, and the venture capital ecosystem. It references 5 specific institutions: Hewlett-Packard, Stanford University, Google, Apple, Facebook, and UC Berkeley. It includes 3 explicit causal chains: Hewlett-Packard benefiting from defense contracts to help build technical expertise and venture capital networks , a dense network of venture capital firms willing to invest in high-risk startups to fuel the rapid expansion of major tech companies , and proximity to universities ensuring a continuous pipeline of skilled workers. No specific named policies are identified; references to "favorable policies" and "intellectual property protections" are treated as general categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

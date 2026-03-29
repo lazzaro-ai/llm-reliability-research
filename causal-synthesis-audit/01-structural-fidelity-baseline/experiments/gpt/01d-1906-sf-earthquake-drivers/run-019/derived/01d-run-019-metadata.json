@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-019",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "19:09",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-019/raw/01d-run-019-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-019/raw/01d-run-019-snapshot.pdf",
+  "transcript_sha256": "18f82732102d43dfa16749c8fcfd9353611a2d418e3d3ca52f8cdfc0adc0ca64",
+
+  "notes": "The response summarizes the 1906 disaster as a transformative event for science and engineering, identifying the 300-mile rupture of the San Andreas Fault as the geological catalyst. It emphasizes that fire damage from broken gas lines exceeded the damage from seismic shaking due to the failure of water infrastructure. While the narrative describes specific historical impacts like the validation of the 'elastic rebound theory' and the redesign of fire safety systems (cisterns), it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing structural collapse, utility failure driving uncontrollable firestorms, the application of elastic rebound theory to seismology, and the implementation of strict seismic building codes for future resilience. The high density of physical mechanisms results in a classification of low abstraction."
+}

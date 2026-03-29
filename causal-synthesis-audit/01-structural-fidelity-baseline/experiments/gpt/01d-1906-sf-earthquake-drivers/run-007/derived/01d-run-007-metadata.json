@@ -1,0 +1,37 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-007",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+
+    "summit_reached": false,
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:04",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-007/raw/01d-run-007-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-007/raw/01d-run-007-snapshot.pdf",
+    "transcript_sha256": "5a973421f46a745b629b424be27f3c67950411e98da1bd5ccc061aa01729b380",
+
+    "notes": "The response provides a historical overview of the 1906 Earthquake, focusing on the geological trigger of the San Andreas Fault and the logistical catastrophe of the subsequent urban fire. It details the 'Ham and Eggs Fire' and the critical vulnerability of unreinforced masonry structures during seismic events. While the narrative is descriptive of historical locations and physical outcomes, it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 3 explicit causal chains: strike-slip tectonic movement causing widespread ground shaking, the rupture of gas mains igniting fires, and the failure of water infrastructure leading to the inability to suppress the conflagration. The presence of these specific physical mechanisms and historical entities results in a classification of low abstraction."
+}

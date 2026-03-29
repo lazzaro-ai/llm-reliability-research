@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-042",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "19:45",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-042/raw/01a-run-042-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-042/raw/01a-run-042-snapshot.pdf",
+  "transcript_sha256": "9FD19983C1956D25720B4DE1FB688B73D532FED43517544F5F888C5D883969A7",
+
+  "notes": "The response is structured into numbered sections covering historical foundations, a culture of innovation, and access to capital. It references 6 specific institutions: Hewlett-Packard, Stanford University, Stanford Industrial Park (Stanford Research Park), Apple, Google, and Facebook. It includes 3 explicit causal chains: Stanford’s promotion of research commercialization creating a pipeline of talent and startups, experienced entrepreneurs reinvesting in new ventures to create a cycle of knowledge transfer, and industry concentration creating feedback loops where successful companies attract more talent and investment. No specific named policies are identified; references to "federal defense and aerospace contracts" and "supportive local regulations" are treated as general concepts or categories of government action. Because the output contains specific named entities and clear causal mechanisms, it is classified as low abstraction."
+}

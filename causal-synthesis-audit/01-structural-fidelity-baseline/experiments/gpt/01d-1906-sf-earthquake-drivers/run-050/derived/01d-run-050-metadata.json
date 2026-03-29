@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-050",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-23",
+  "experiment_time_local": "20:15",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-050/raw/01d-run-050-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-050/run-050-snapshot.pdf",
+  "transcript_sha256": "9e307b5abe83d92578f2a3516cf0114e130f5840fd5c149b8d5f0d1f652823fd",
+
+  "notes": "The response presents a layered causal narrative beginning with rupture along the San Andreas Fault causing structural collapse, followed by infrastructure failure (gas lines and water mains) enabling multi-day fires that drove most destruction. It connects these mechanisms to long-term outcomes including urban reconstruction, stricter building codes, improved emergency infrastructure, and advances in seismology. It further links displacement to regional population redistribution across the Bay Area (including Oakland) and references social impacts such as displacement of Chinese residents in Chinatown San Francisco, though no formal institutions or policies are explicitly named. Multiple explicit causal chains across physical, infrastructural, social, and scientific domains result in a low abstraction classification due to consistent mechanism-level explanation."
+}

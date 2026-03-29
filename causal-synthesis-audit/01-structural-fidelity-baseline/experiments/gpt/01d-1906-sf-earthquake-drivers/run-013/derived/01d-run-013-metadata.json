@@ -1,0 +1,37 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-013",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+
+    "summit_reached": false,
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:07",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-013/raw/01d-run-013-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-013/raw/01d-run-013-snapshot.pdf",
+    "transcript_sha256": "239061a38a11e82933bf4fdf9818600ec84c3f984c859afb4794218bc1fa6e5c",
+
+    "notes": "The response details the 1906 earthquake's drivers through a geological and infrastructural lens, identifying the San Andreas Fault as the primary trigger and 'liquefaction' as a key factor in ground failure. It highlights the 'Ham and Eggs Fire' and the compounding failure of ruptured water mains as the central causes of urban devastation. While the narrative is rich in specific location names and historical entities like the 'Burnham Plan,' it names 0 specific legislative acts or formal policies and 0 institutional bodies. It identifies 4 explicit causal chains: tectonic rupture causing high-magnitude shockwaves, structural material choice (unreinforced masonry) leading to collapse, gas main ruptures triggering urban fires, and the failure of utility infrastructure preventing suppression. The high density of physical mechanisms and historical entities results in a classification of low abstraction."
+}

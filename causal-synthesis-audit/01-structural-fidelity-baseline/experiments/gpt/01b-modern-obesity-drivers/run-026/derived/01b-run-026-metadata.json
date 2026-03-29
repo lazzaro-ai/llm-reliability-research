@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01b-run-026",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the modern obesity epidemic",
+  "domain_type": "public health / metabolic health",
+  "substrate": "drivers of rising obesity rates in the United States",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01b-modern-obesity-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-22",
+  "experiment_time_local": "14:21",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01b-modern-obesity-drivers/run-026/raw/01b-run-026-transcript.txt",
+  "transcript_readable": "experiments/gpt/01b-modern-obesity-drivers/run-026/raw/01b-run-026-snapshot.pdf",
+  "transcript_sha256": "DA1F65CE4D17843B8453978E662570F1648BD34394B23AA6F1125694989F8DFF",
+
+  "notes": "The response identifies seven thematic categories shaping the obesity landscape, framing it as a systems-level issue and a social/environmental disease according to the World Health Organization. While it mentions limited policy action regarding taxation and labeling, it identifies 0 specific legislative acts, formal government policies, or named institutions besides the WHO. It identifies 4 explicit causal chains: the engineering of ultra-processed foods for hyper-palatability leading to displacement of whole foods and increased calorie intake, urbanization and modern work patterns leading to reduced daily energy expenditure through sitting, economic development and globalization leading to increased availability of processed foods, and stress or sleep deprivation affecting hormones that regulate hunger and satiety. Due to the continued reliance on high-level categorical labels and a total absence of specific proper nouns or policy markers, the response is classified as high abstraction."
+}

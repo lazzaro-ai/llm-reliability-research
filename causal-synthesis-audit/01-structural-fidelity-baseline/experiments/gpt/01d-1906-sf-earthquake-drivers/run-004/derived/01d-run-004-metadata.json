@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01d-run-004",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the 1906 San Francisco Earthquake",
+    "domain_type": "natural disaster / historical control",
+    "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01d-1906-sf-earthquake-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-23",
+    "experiment_time_local": "19:02",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-004/raw/01d-run-004-transcript.txt",
+    "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-004/raw/01d-run-004-snapshot.pdf",
+    "transcript_sha256": "d1f5d5eb822a7640fca7dcea7209f1e64156b108c69456170add4d0f0e68b60e",
+
+    "notes": "The response provides a high-density historical narrative, specifically citing the 'Ham and Eggs Fire' and the 'Burnham Plan' for reconstruction. It identifies the geological drivers via the San Andreas Fault and the engineering vulnerabilities of the era, such as unreinforced masonry and the lack of seismic building codes. While rich in location-based proper nouns and technical mechanisms, it names 0 specific legislative acts or formal policies and 0 institutional bodies like the USGS. It identifies 4 explicit causal chains: tectonic rupture leading to widespread shockwaves, the rupture of gas mains igniting urban fires, water line failure resulting in firefighting paralysis, and the shift from aesthetic urban planning to structural resilience. Due to the high level of specific mechanisms and historical entities, the abstraction level is classified as low."
+}

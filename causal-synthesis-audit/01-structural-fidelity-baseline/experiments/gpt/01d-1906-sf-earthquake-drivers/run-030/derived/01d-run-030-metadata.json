@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01d-run-030",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "the 1906 San Francisco Earthquake",
+  "domain_type": "natural disaster / historical control",
+  "substrate": "seismic activity, urban planning, and historical catastrophe response",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01d-1906-sf-earthquake-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-24",
+  "experiment_time_local": "20:06",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-030/raw/01d-run-030-transcript.txt",
+  "transcript_readable": "experiments/gpt/01d-1906-sf-earthquake-drivers/run-030/run-030-snapshot.pdf",
+  "transcript_sha256": "b93614daf62de5603dff5fe710fb64a47dc8b2da1ca530d4067d5941929070a2",
+
+  "notes": "The final run summarizes the 1906 disaster as a foundational event for modern seismology, identifying the San Andreas Fault slip between the Pacific and North American plates as the geological driver. It highlights the amplification of shaking and liquefaction due to reclaimed land and bay mud, as well as the destruction of unreinforced masonry buildings. While the narrative describes specific historical impacts like the shift toward fire-resistant materials (steel and reinforced concrete) and the modernization of electrical and water systems, it names 0 specific legislative acts or formal institutional bodies. It identifies 4 explicit causal chains: tectonic slip causing structural collapse, the failure of existing building standards during the quake, the implementation of significant improvements in seismic building codes for resilience, and the resulting economic and demographic shifts. The high density of physical mechanisms results in a classification of low abstraction."
+}

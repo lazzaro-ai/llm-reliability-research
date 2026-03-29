@@ -1,0 +1,30 @@
+Category,Term,01a,01b,01c,01d,01e
+Anchor,Venture Capital,144,0,0,0,0
+Anchor,lifestyle,0,95,0,0,0
+Anchor,redlining,0,0,65,0,0
+Anchor,San Andreas Fault,0,0,0,73,0
+Anchor,space race,0,0,0,0,49
+
+Institution,Stanford University,60,0,0,0,0
+Institution,FDA,0,0,0,0,0
+Institution,FHA,0,0,1,0,0
+Institution,USGS,0,0,0,0,0
+Institution,NASA,0,0,0,0,88
+
+Policy,Bayh-Dole Act,0,0,0,0,0
+Policy,Farm Bill,0,0,0,0,0
+Policy,Social Security Act,0,0,0,0,0
+Policy,building codes,0,0,0,75,0
+Policy,Apollo Program,0,0,0,0,16
+
+Mechanism,stock options,0,0,0,0,0
+Mechanism,ultra-processed,0,105,0,0,0
+Mechanism,segregation,0,0,0,0,0
+Mechanism,fires,0,0,0,96,0
+Mechanism,rocket propulsion,0,0,0,0,53
+
+Abstraction,systemic,0,0,10,0,0
+Abstraction,structural,0,0,80,0,0
+Abstraction,socioeconomic,0,50,0,0,0
+Abstraction,environmental,0,0,0,0,0
+Abstraction,innovation,0,0,0,0,84

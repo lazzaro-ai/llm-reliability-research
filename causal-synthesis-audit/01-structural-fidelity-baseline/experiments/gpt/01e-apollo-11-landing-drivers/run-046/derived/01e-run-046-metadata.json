@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01e-run-046",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the Apollo 11 Moon Landing",
+    "domain_type": "technical / geopolitical success control",
+    "substrate": "space exploration, aerospace engineering, and Cold War technological competition",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01e-apollo-11-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-26",
+    "experiment_time_local": "23:32",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01e-apollo-11-drivers/run-046/raw/01e-run-046-transcript.txt",
+    "transcript_readable": "experiments/gpt/01e-apollo-11-drivers/run-046/raw/01e-run-046-snapshot.pdf",
+    "transcript_sha256": "F5622F26D4A1A6CEC2B628B352CF898AFCC863FC7C076AEA241D783A0EE43907",
+
+    "notes": "The response maintains the standard Apollo 11 scaffold, identifying core actors (NASA, Armstrong, Aldrin, Collins) and mission elements (Eagle, lunar landing sequence). It identifies 5 causal domains: Cold War/Space Race dynamics, government investment, technological innovation, human risk/engineering precision, and long-term impacts on modern exploration, private industry, collaboration, and cultural/scientific perspective. It names 5 proper nouns (NASA, Neil Armstrong, Buzz Aldrin, Michael Collins, John F. Kennedy) and includes 5 explicit causal chains linking geopolitical rivalry and political mandate to technological development, scientific progress, and modern space exploration frameworks. No specific legislative acts are named, but institutional attribution remains intact. The narrative is classified as low abstraction due to consistent entity anchoring and multi-domain causal structure."
+}

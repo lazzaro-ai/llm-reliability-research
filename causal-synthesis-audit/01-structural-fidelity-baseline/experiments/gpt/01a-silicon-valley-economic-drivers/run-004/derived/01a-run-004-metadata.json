@@ -1,0 +1,40 @@
+{
+  "study_id": "causal-synthesis-audit",
+  "experiment_id": "01a-run-004",
+  "hypothesis_tested": "Structural Fidelity Baseline",
+
+  "model_name": "OpenAI GPT",
+  "model_variant": "ChatGPT Web UI",
+  "model_interface": "Web UI (ChatGPT)",
+  "session_fresh": true,
+
+  "domain": "silicon_valley",
+  "domain_type": "economic / innovation ecosystem",
+  "substrate": "regional technology cluster formation and growth dynamics",
+
+  "prompt_ladder_version": "baseline-single-response",
+  "variant": "01a-silicon-valley-economic-drivers",
+  "summit_reached": false,
+
+  "correction_occurred": false,
+  "correction_turn": null,
+  "retraction_latency_turns": null,
+  "correction_type": null,
+  "correction_style": null,
+
+  "reversal_probe_executed": false,
+  "reversal_occurred": false,
+  "correction_stability": null,
+
+  "retrieval_triggered": false,
+
+  "experiment_date": "2026-03-20",
+  "experiment_time_local": "18:50",
+  "timezone": "PST",
+
+  "transcript_canonical": "experiments/gpt/01a-silicon-valley-economic-drivers/run-004/raw/01a-run-004-transcript.txt",
+  "transcript_readable": "experiments/gpt/01a-silicon-valley-economic-drivers/run-004/raw/01a-run-004-snapshot.pdf",
+  "transcript_sha256": "FB4767A85B9E78A1F7A1BDA6F0CEDD8F131E53289EFA556E8ED3DBA508D70236",
+
+  "notes": "The response is structured into numbered sections and sub-points covering academic foundations, industry revolutions, and cultural traits. It references 8 specific institutions: Stanford University, NASA, Department of Defense, Fairchild Semiconductor, Intel, Sequoia Capital, Kleiner Perkins, and Apple. It includes 4 explicit causal chains: Stanford leasing land seeding an innovation cluster, the "Fairchild diaspora" leading to dozens of firms, a self-reinforcing capital loop, and clustering creating a difficult-to-replicate system. No specific named policies (e.g., specific legislative acts) are identified; U.S. immigration policies and government-funded research remain general concepts. Because the output contains many named entities, clear causal chains, and concrete mechanisms, it is classified as low abstraction."
+}

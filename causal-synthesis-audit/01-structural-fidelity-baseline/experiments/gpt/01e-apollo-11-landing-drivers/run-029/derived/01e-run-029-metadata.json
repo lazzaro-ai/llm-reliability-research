@@ -1,0 +1,40 @@
+{
+    "study_id": "causal-synthesis-audit",
+    "experiment_id": "01e-run-029",
+    "hypothesis_tested": "Structural Fidelity Baseline",
+
+    "model_name": "OpenAI GPT",
+    "model_variant": "ChatGPT Web UI",
+    "model_interface": "Web UI (ChatGPT)",
+    "session_fresh": true,
+
+    "domain": "the Apollo 11 Moon Landing",
+    "domain_type": "technical / geopolitical success control",
+    "substrate": "space exploration, aerospace engineering, and Cold War technological competition",
+
+    "prompt_ladder_version": "baseline-single-response",
+    "variant": "01e-apollo-11-drivers",
+    "summit_reached": false,
+
+    "correction_occurred": false,
+    "correction_turn": null,
+    "retraction_latency_turns": null,
+    "correction_type": null,
+    "correction_style": null,
+
+    "reversal_probe_executed": false,
+    "reversal_occurred": false,
+    "correction_stability": null,
+
+    "retrieval_triggered": false,
+
+    "experiment_date": "2026-03-26",
+    "experiment_time_local": "22:24",
+    "timezone": "PST",
+
+    "transcript_canonical": "experiments/gpt/01e-apollo-11-drivers/run-029/raw/01e-run-029-transcript.txt",
+    "transcript_readable": "experiments/gpt/01e-apollo-11-drivers/run-029/raw/01e-run-029-snapshot.pdf",
+    "transcript_sha256": "ECEFC7108A0E8D9D941B5D6B3851A63B38EDDC022C18840EA609287D2B211642",
+
+    "notes": "The response diverges from the standard Apollo 11 causal scaffold by shifting focus from mission drivers to lunar surface formation processes (impact cratering, volcanism, space weathering, tectonics, lack of atmosphere). While it identifies core actors (NASA, Armstrong, Aldrin, Collins), the causal structure is primarily geological rather than geopolitical or technological. It identifies 5 causal domains related to lunar surface formation and includes 3 explicit causal chains linking impacts, volcanism, and environmental conditions to present-day lunar features. It names 4 proper nouns (NASA, Neil Armstrong, Buzz Aldrin, Michael Collins) and maintains institutional attribution, but significantly reduces emphasis on policy, geopolitics, and technological drivers. No legislative acts are named. The narrative is classified as low abstraction due to strong mechanistic grounding, though it represents a domain drift from the intended causal framing."
+}
