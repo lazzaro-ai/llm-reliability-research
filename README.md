@@ -28,6 +28,10 @@ This repository contains two primary research tracks:
 
 Investigates how models behave during multi-turn conversations when incorrect premises are introduced and later challenged.
 
+**Key documents:**
+* ced-executive-summary.md  
+* articles/conversational-quicksand.md  
+
 Focus areas include:
 
 * delayed skepticism
@@ -40,6 +44,10 @@ Focus areas include:
 ## 2. Causal Synthesis Audit (CSA)
 
 Evaluates how models construct causal explanations across domains under neutral, single-turn conditions.
+
+**Key documents:**
+* csa-executive-summary.md  
+* articles/agency-gap.md  
 
 Focus areas include:
 
@@ -89,16 +97,26 @@ Raw artifacts are preserved separately from analytical interpretation.
 
 The primary research work lives inside:
 
-conversational-error-dynamics/
-causal-synthesis-audit/
+conversational-error-dynamics/  
+causal-synthesis-audit/  
 
 ### conversational-error-dynamics/
 
 Multi-turn conversational studies examining error formation, reinforcement, and correction behavior.
 
+Contains:
+* ced-executive-summary.md  
+* articles/  
+* experiment folders (01–03)
+
 ### causal-synthesis-audit/
 
 Single-turn structural studies examining causal explanation fidelity across domains.
+
+Contains:
+* csa-executive-summary.md  
+* articles/  
+* experiment folders (01)
 
 The REPO-MAP.md file provides a detailed navigation guide.
 

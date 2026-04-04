@@ -1,170 +1,95 @@
-------------------------------------------------------------
-LLM Reliability Research Repository Map
-------------------------------------------------------------
-
-Repository
-llm-reliability-research
-
-Purpose
-This repository documents controlled behavioral experiments
-investigating reliability in large language models.
-
-The work is divided into two complementary research programs:
-
-• Conversational Error Dynamics (CED)
-• Causal Synthesis Audit (CSA)
-
-These programs examine how models behave in both:
-
-• multi-turn conversational settings (CED)
-• single-turn causal explanation tasks (CSA)
-
-------------------------------------------------------------
-Top-Level Repository Structure
-------------------------------------------------------------
-
-Root
-
-.gitignore
-LICENSE
-README.md
 REPO-MAP.md
 
-conversational-error-dynamics/
-    01-delayed-skepticism-study/
-    02-narrative-entrenchment-study/
-    03-correction-dynamics-study/
+lazzaro-ai/llm-reliability-research
+----------------------------------
 
-causal-synthesis-audit/
-    01-structural-fidelity-baseline/
-
-------------------------------------------------------------
-Program Overview
-------------------------------------------------------------
-
-Conversational Error Dynamics (CED)
-
-Focus
-How models handle incorrect premises over multiple conversational turns.
-
-Key mechanisms:
-
-• delayed skepticism
-• narrative entrenchment
-• correction stability
-• correction reversal
-• conversational pressure effects
-
-
-Causal Synthesis Audit (CSA)
-
-Focus
-How models construct causal explanations across domains.
-
-Key mechanisms:
-
-• structural fidelity
-• causal chain completeness
-• policy and institution attribution
-• abstraction vs specificity
-• cross-domain variation
-
-CSA establishes a baseline for explanation structure that can be compared
-against conversational behavior observed in CED.
-
-------------------------------------------------------------
-CSA Study 01
-01-structural-fidelity-baseline
-------------------------------------------------------------
-
-Focus
-Evaluates causal explanation structure across five domains:
-
-01a — Silicon Valley economic drivers  
-01b — Modern obesity drivers  
-01c — Black–White wealth gap drivers  
-01d — 1906 SF earthquake drivers  
-01e — Apollo 11 landing drivers  
-
-Execution
-
-• 250 total runs (50 per domain)
-• neutral prompt design (no instruction bias)
-• single-turn responses
-
-Models
-
-• GPT (complete)
-• Gemini (in progress)
-
-------------------------------------------------------------
-CSA Directory Structure
-------------------------------------------------------------
-
-CHANGELOG.md
-    Tracks study evolution and protocol updates.
-
-analysis/
-
-    gemini/
-    gpt/
-
-Contains:
-
-    cross-run patterns
-    observed behaviors
-    experiment summaries
-    results.csv
-
-
-data-outputs/
-
-    gpt/
-
-        data-analysis/
-            keyword frequency outputs
-            cross-domain comparison
-
-        frequency-audits/
-            structured audit outputs
-
-        master-transcripts/
-            aggregated domain transcripts
-
-        summaries/
-            domain-level summaries
+Root
+│   .gitattributes
+│   .gitignore
+│   LICENSE
+│   README.md
+│   REPO-MAP.md
+│
+├── conversational-error-dynamics/
+│   Multi-turn behavioral studies (CED)
+│   ├── 01-delayed-skepticism-study/
+│   ├── 02-narrative-entrenchment-study/
+│   └── 03-correction-dynamics-study/
+│       Each study contains:
+│       ├── analysis/
+│       ├── docs/
+│       ├── experiments/
+│       ├── ground-truth/
+│       ├── hypotheses/
+│       └── protocols/
+│
+├── causal-synthesis-audit/
+│   Single-turn structural fidelity studies (CSA)
+│   │   csa-executive-summary.md
+│   │
+│   └── 01-structural-fidelity-baseline/
+│       │   CHANGELOG.md
+│       │
+│       ├── analysis/
+│       │   ├── gpt/
+│       │   │   │   01-gpt-study-summary.md
+│       │   │   │
+│       │   │   ├── 01a-silicon-valley-economic-drivers/
+│       │   │   ├── 01b-modern-obesity-drivers/
+│       │   │   ├── 01c-black-white-wealth-gap-drivers/
+│       │   │   ├── 01d-1906-sf-earthquake-drivers/
+│       │   │   └── 01e-apollo-11-landing-drivers/
+│       │   │       Each contains:
+│       │   │       ├── *-cross-run-patterns.md
+│       │   │       ├── *-experiment-summary.md
+│       │   │       ├── *-observed-behaviors.md
+│       │   │       └── *-results.csv
+│       │   │
+│       │   └── gemini/
+│       │       (parallel structure; in progress)
+│       │
+│       ├── data-outputs/
+│       │   ├── gpt/
+│       │   │   ├── data-analysis/
+│       │   │   │   keyword-frequency + cross-domain comparison
+│       │   │   ├── frequency-audits/
+│       │   │   ├── master-transcripts/
+│       │   │   └── summaries/
+│       │   └── gemini/
+│       │       (in progress)
+│       │
+│       ├── docs/
+│       │   Study-level documentation and writeups
+│       │
+│       ├── experiments/
+│       │   ├── gpt/
+│       │   │   └── 01[a–e]-<domain>/
+│       │   │       └── run-###/
+│       │   │           ├── raw/
+│       │   │           │   transcript.txt
+│       │   │           │   transcript.txt.sha256
+│       │   │           │   snapshot.pdf
+│       │   │           │   snapshot.pdf.sha256
+│       │   │           └── derived/
+│       │   │               metadata.json
+│       │   │
+│       │   └── gemini/
+│       │       (parallel structure; in progress)
+│       │
+│       ├── ground-truth/
+│       │   Source validation artifacts (PDF + SHA256)
+│       │
+│       ├── hypotheses/
+│       │   Study hypotheses and definitions
+│       │
+│       └── protocols/
+│           Experimental procedures and prompt designs
 
 
-experiments/
-
-    gemini/
-    gpt/
-
-Each domain contains run folders:
-
-    run-001 → run-050
-
-Each run preserves:
-
-    raw/
-        transcript.txt
-        transcript.txt.sha256
-        snapshot.pdf
-        snapshot.pdf.sha256
-
-    derived/
-        metadata.json
-
-
-docs/
-
-    optional study documentation
-
-
-------------------------------------------------------------
-CED Structure (Unchanged)
-------------------------------------------------------------
-
-[Existing CED structure remains unchanged below this point]
-
-(leave all existing CED sections exactly as-is)
+Notes
+-----
+- CED = multi-turn conversational reliability (ascent → challenge → correction)
+- CSA = single-turn structural fidelity (entity density, causal linkage, abstraction)
+- All experiments follow strict archival discipline:
+  raw (immutable) + derived (metadata) + hashed integrity
+- Gemini replication layer mirrors GPT structure for cross-model comparison
