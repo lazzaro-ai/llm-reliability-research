@@ -1,12 +1,12 @@
 # LLM Reliability Research
 
-Independent research project investigating how large language models respond to incorrect premises during multi-turn conversations.
+Independent research project investigating how large language models behave under real-world conditions, particularly how they respond to incorrect premises during multi-turn conversations.
 
-The project focuses on **conversational error dynamics** — specifically how models reinforce, defend, and eventually correct incorrect claims once narrative explanations have already formed.
+The project focuses on **conversational error dynamics** — specifically how models reinforce, defend, and eventually correct incorrect claims once narrative explanations have already formed, and how this behavior impacts system-level reliability.
 
-Unlike most hallucination discussions that analyze single-turn answers, this work examines **how errors evolve across multi-turn conversational interaction**.
+Unlike most hallucination discussions that analyze single-turn answers, this work examines **how errors evolve across multi-turn conversational interaction and affect real-world system performance**.
 
-The repository also includes a parallel research program, **Causal Synthesis Audit (CSA)**, which evaluates how models construct causal explanations across domains.
+The repository also includes a parallel research program, **Causal Synthesis Audit (CSA)**, which evaluates how models construct causal explanations across domains and how those explanations impact analytical reliability.
 
 ------------------------------------------------------------
 
@@ -41,6 +41,8 @@ Focus areas include:
 * correction stability
 * correction reversal
 
+This track evaluates **how reasoning evolves under interaction and how reliability must be measured as a process rather than a single response outcome**.
+
 ## 2. Causal Synthesis Audit (CSA)
 
 Evaluates how models construct causal explanations across domains under neutral, single-turn conditions.
@@ -57,13 +59,13 @@ Focus areas include:
 * abstraction vs specificity
 * cross-domain consistency
 
-CSA establishes a baseline for **what models include or omit**, which can then be compared against conversational behavior in CED.
+CSA establishes a baseline for **what models include or omit**, which can then be compared against conversational behavior in CED to assess real-world reliability.
 
 ------------------------------------------------------------
 
 # Methodology
 
-Experiments use structured, controlled designs depending on the research program:
+Experiments use structured, controlled designs depending on the research program, with emphasis on reproducibility and real-world behavioral simulation:
 
 ### Conversational Studies (CED)
 
@@ -80,6 +82,7 @@ Core principles:
 * no adversarial prompting during baseline studies
 * reproducible experimental procedures
 * strict artifact preservation
+* evaluation of system behavior under realistic interaction patterns
 
 Each experimental run preserves:
 
@@ -153,6 +156,8 @@ Across studies, the project evaluates:
 * causal link density
 * policy and institution attribution
 * abstraction level
+
+These measurements are designed to capture **how model behavior impacts reliability, interpretability, and downstream decision-making**.
 
 ------------------------------------------------------------
 
