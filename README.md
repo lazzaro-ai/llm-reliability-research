@@ -1,12 +1,12 @@
 # LLM Reliability Research
 
-Independent research project investigating how large language models behave under real-world conditions, particularly how they respond to incorrect premises during multi-turn conversations.
+Public research repository documenting evaluation frameworks, structured experiments, prototype workflows, and technical documentation for LLM reliability, conversational behavior, and applied AI systems under real-world conditions.
 
-The project focuses on **conversational error dynamics** — specifically how models reinforce, defend, and eventually correct incorrect claims once narrative explanations have already formed, and how this behavior impacts system-level reliability.
+The core work examines how large language models behave when ambiguity, incorrect premises, recency constraints, and multi-turn interaction create conditions that expose reliability risk. The repository focuses on model behavior as an operational problem: how outputs form, persist, shift, and affect downstream judgment, workflow quality, and system-level performance.
 
-Unlike most hallucination discussions that analyze single-turn answers, this work examines **how errors evolve across multi-turn conversational interaction and affect real-world system performance**.
+A central research program in the repository is **Conversational Error Dynamics (CED)**, which studies how models reinforce, defend, and eventually correct incorrect claims once narrative explanations have already formed. The repository also includes **Causal Synthesis Audit (CSA)**, which evaluates how models construct causal explanations across domains and how omissions, abstraction, and structural inconsistency affect analytical reliability.
 
-The repository also includes a parallel research program, **Causal Synthesis Audit (CSA)**, which evaluates how models construct causal explanations across domains and how those explanations impact analytical reliability.
+Unlike most hallucination discussions that focus on isolated single-turn answers, this work examines how model behavior evolves across interaction and why reliability must be evaluated as a process rather than a single response outcome.
 
 ------------------------------------------------------------
 
@@ -22,11 +22,11 @@ The repository map explains how the studies are organized, where to find protoco
 
 # Research Programs
 
-This repository contains two primary research tracks:
+This repository currently contains two primary research tracks:
 
 ## 1. Conversational Error Dynamics (CED)
 
-Investigates how models behave during multi-turn conversations when incorrect premises are introduced and later challenged.
+CED investigates how models behave during multi-turn conversations when incorrect premises are introduced, reinforced, challenged, and corrected.
 
 **Key documents:**
 * ced-executive-summary.md  
@@ -41,11 +41,11 @@ Focus areas include:
 * correction stability
 * correction reversal
 
-This track evaluates **how reasoning evolves under interaction and how reliability must be measured as a process rather than a single response outcome**.
+This track evaluates how reasoning evolves under interaction and how reliability degrades or recovers across a conversational sequence rather than in a single isolated answer.
 
 ## 2. Causal Synthesis Audit (CSA)
 
-Evaluates how models construct causal explanations across domains under neutral, single-turn conditions.
+CSA evaluates how models construct causal explanations across domains under neutral, single-turn conditions.
 
 **Key documents:**
 * csa-executive-summary.md  
@@ -59,13 +59,13 @@ Focus areas include:
 * abstraction vs specificity
 * cross-domain consistency
 
-CSA establishes a baseline for **what models include or omit**, which can then be compared against conversational behavior in CED to assess real-world reliability.
+CSA establishes a baseline for what models include, omit, compress, or generalize, which can then be compared against conversational behavior in CED to assess reliability under different interaction conditions.
 
 ------------------------------------------------------------
 
 # Methodology
 
-Experiments use structured, controlled designs depending on the research program, with emphasis on reproducibility and real-world behavioral simulation:
+Experiments use structured, controlled designs depending on the research program, with emphasis on reproducibility, artifact integrity, and real-world behavioral relevance.
 
 ### Conversational Studies (CED)
 
@@ -78,11 +78,12 @@ Neutral prompts designed to elicit unconstrained causal explanations without ins
 Core principles:
 
 * single-variable hypothesis testing
-* controlled structure (multi-turn or single-turn depending on study)
-* no adversarial prompting during baseline studies
-* reproducible experimental procedures
+* controlled experimental structure
+* reproducible procedures
 * strict artifact preservation
-* evaluation of system behavior under realistic interaction patterns
+* separation of raw evidence from interpretation
+* evaluation of behavior under realistic interaction patterns
+* emphasis on operational reliability, not just benchmark-style correctness
 
 Each experimental run preserves:
 
@@ -140,7 +141,7 @@ Structural Fidelity (CSA)
 The degree to which a model constructs complete, explicit, and causally linked explanations.
 
 Selective Omission  
-The absence of expected entities (policies, institutions, mechanisms) in otherwise valid explanations.
+The absence of expected entities such as policies, institutions, or mechanisms in otherwise plausible explanations.
 
 ------------------------------------------------------------
 
@@ -157,7 +158,7 @@ Across studies, the project evaluates:
 * policy and institution attribution
 * abstraction level
 
-These measurements are designed to capture **how model behavior impacts reliability, interpretability, and downstream decision-making**.
+These measurements are designed to capture how model behavior affects reliability, interpretability, workflow quality, and downstream decision-making.
 
 ------------------------------------------------------------
 
